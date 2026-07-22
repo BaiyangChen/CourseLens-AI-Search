@@ -1,0 +1,1837 @@
+[
+  {
+    "frame_type": "blank",
+    "teaching_activity": "transition",
+    "visual_elements": [
+      "blank"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.0,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides no educational evidence as it is a blank screen.",
+    "confidence": 0.95,
+    "frame_number": 0,
+    "timestamp": 0.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_0000.jpg",
+    "frame_score": 0.0,
+    "content_score": 0.0
+  },
+  {
+    "frame_type": "diagram",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "diagram"
+    ],
+    "topics_observed": [
+      "historical regions of Taiwan",
+      "administrative divisions of Taiwan"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a historical map of Taiwan's administrative divisions, showing different regions and their historical periods.",
+    "confidence": 0.9,
+    "frame_number": 600,
+    "timestamp": 20.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_0600.jpg",
+    "frame_score": 152.6220920138889,
+    "content_score": 0.03530381944444445
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "slide"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a presentation slide.",
+    "confidence": 0.9,
+    "frame_number": 5700,
+    "timestamp": 190.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_5700.jpg",
+    "frame_score": 155.50486979166666,
+    "content_score": 0.03349392361111111
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "slide"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a lecture slide.",
+    "confidence": 0.9,
+    "frame_number": 6000,
+    "timestamp": 200.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_6000.jpg",
+    "frame_score": 19.966996527777777,
+    "content_score": 0.034205729166666664
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "slide"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as it shows a teacher speaking in front of a slide presentation.",
+    "confidence": 0.9,
+    "frame_number": 6300,
+    "timestamp": 210.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_6300.jpg",
+    "frame_score": 27.288836805555555,
+    "content_score": 0.030065104166666665
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "diagram"
+    ],
+    "topics_observed": [
+      "Taiwan enters the global political scene",
+      "Zheng Chenggong (Koxinga; 1624-1662) and the Manchu Capture of Taiwan",
+      "1639",
+      "1660",
+      "Spanish colonial period",
+      "Manchu Capture of Taiwan"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide discussing Taiwan's historical political integration with global events, including the Spanish colonial period and Manchu capture.",
+    "confidence": 0.9,
+    "frame_number": 6900,
+    "timestamp": 230.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_6900.jpg",
+    "frame_score": 90.22516927083333,
+    "content_score": 0.12200520833333334
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "slide"
+    ],
+    "topics_observed": [
+      "1680"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide with historical context and a teacher explaining the content.",
+    "confidence": 0.8,
+    "frame_number": 12300,
+    "timestamp": 410.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_12300.jpg",
+    "frame_score": 99.22325520833333,
+    "content_score": 0.05067274305555555
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible student practice or code execution.",
+    "confidence": 0.8,
+    "frame_number": 12600,
+    "timestamp": 420.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_12600.jpg",
+    "frame_score": 79.98620225694444,
+    "content_score": 0.034127604166666665
+  },
+  {
+    "frame_type": "unknown",
+    "teaching_activity": "unknown",
+    "visual_elements": [
+      "unknown"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.0,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "visible_text_summary": null,
+    "evidence_summary": "Failed to parse model response.",
+    "confidence": 0.0,
+    "error": "Failed to parse JSON",
+    "raw_response": "",
+    "frame_number": 12900,
+    "timestamp": 430.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_12900.jpg",
+    "frame_score": 83.88690538194444,
+    "content_score": 0.06072048611111111
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "slide"
+    ],
+    "topics_observed": [
+      "1680"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction because it shows a teacher explaining a historical map from 1680.",
+    "confidence": 0.8,
+    "frame_number": 13200,
+    "timestamp": 440.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_13200.jpg",
+    "frame_score": 26.61576388888889,
+    "content_score": 0.05866319444444444
+  },
+  {
+    "frame_type": "mixed",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "diagram",
+      "teacher"
+    ],
+    "topics_observed": [
+      "Taiwan Question",
+      "Shi Lang",
+      "historical maps",
+      "Dong Control Over Formosa"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through historical maps and a teacher explaining the Taiwan Question.",
+    "confidence": 0.8,
+    "frame_number": 14400,
+    "timestamp": 480.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_14400.jpg",
+    "frame_score": 114.82894965277778,
+    "content_score": 0.1292404513888889
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a blackboard with no visible instructional content.",
+    "confidence": 0.9,
+    "frame_number": 23700,
+    "timestamp": 790.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_23700.jpg",
+    "frame_score": 143.56282552083334,
+    "content_score": 0.030325520833333335
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a blackboard with no visible instructional content.",
+    "confidence": 0.8,
+    "frame_number": 24300,
+    "timestamp": 810.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_24300.jpg",
+    "frame_score": 8.273663194444444,
+    "content_score": 0.030381944444444444
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction because it shows a teacher speaking in front of a blackboard with no visible instructional content.",
+    "confidence": 0.8,
+    "frame_number": 24600,
+    "timestamp": 820.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_24600.jpg",
+    "frame_score": 6.417647569444444,
+    "content_score": 0.03138020833333333
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a blackboard with no visible instructional content.",
+    "confidence": 0.8,
+    "frame_number": 24900,
+    "timestamp": 830.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_24900.jpg",
+    "frame_score": 7.164171006944445,
+    "content_score": 0.030282118055555557
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible instructional content.",
+    "confidence": 0.9,
+    "frame_number": 26400,
+    "timestamp": 880.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_26400.jpg",
+    "frame_score": 18.415520833333332,
+    "content_score": 0.032586805555555556
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction because it shows a teacher speaking in front of a blackboard with no visible instructional content.",
+    "confidence": 0.8,
+    "frame_number": 26700,
+    "timestamp": 890.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_26700.jpg",
+    "frame_score": 5.9615277777777775,
+    "content_score": 0.03185329861111111
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as it shows a teacher speaking in front of a blackboard with no visible instructional content.",
+    "confidence": 0.8,
+    "frame_number": 27000,
+    "timestamp": 900.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_27000.jpg",
+    "frame_score": 23.377799479166665,
+    "content_score": 0.032135416666666666
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a blackboard with no visible instructional content.",
+    "confidence": 0.9,
+    "frame_number": 27300,
+    "timestamp": 910.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_27300.jpg",
+    "frame_score": 9.519440104166666,
+    "content_score": 0.030260416666666668
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a blackboard with no visible instructional content.",
+    "confidence": 0.8,
+    "frame_number": 27600,
+    "timestamp": 920.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_27600.jpg",
+    "frame_score": 11.052526041666667,
+    "content_score": 0.03124565972222222
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-heavy instruction because it shows a teacher speaking in front of a blackboard with no visible instructional content.",
+    "confidence": 0.8,
+    "frame_number": 28200,
+    "timestamp": 940.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_28200.jpg",
+    "frame_score": 29.907400173611112,
+    "content_score": 0.03135416666666667
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-heavy instruction because it shows a teacher speaking in front of a blackboard with no visible instructional content.",
+    "confidence": 0.9,
+    "frame_number": 29100,
+    "timestamp": 970.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_29100.jpg",
+    "frame_score": 27.835616319444444,
+    "content_score": 0.030338541666666666
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as it shows a teacher speaking in front of a blackboard with no visible instructional content.",
+    "confidence": 0.9,
+    "frame_number": 30000,
+    "timestamp": 1000.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_30000.jpg",
+    "frame_score": 34.04903645833333,
+    "content_score": 0.03072048611111111
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-heavy instruction as the teacher is speaking in front of a blackboard with no visible instructional content.",
+    "confidence": 0.9,
+    "frame_number": 30300,
+    "timestamp": 1010.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_30300.jpg",
+    "frame_score": 10.009518229166666,
+    "content_score": 0.030442708333333332
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as it shows a teacher speaking in front of a blackboard with no visible instructional content.",
+    "confidence": 0.8,
+    "frame_number": 30600,
+    "timestamp": 1020.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_30600.jpg",
+    "frame_score": 7.678754340277778,
+    "content_score": 0.03149305555555556
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible instructional content.",
+    "confidence": 0.8,
+    "frame_number": 31500,
+    "timestamp": 1050.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_31500.jpg",
+    "frame_score": 43.075954861111114,
+    "content_score": 0.03296875
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking while gesturing in front of a whiteboard.",
+    "confidence": 0.9,
+    "frame_number": 32100,
+    "timestamp": 1070.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_32100.jpg",
+    "frame_score": 21.019401041666665,
+    "content_score": 0.03521267361111111
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible instructional content.",
+    "confidence": 0.8,
+    "frame_number": 32400,
+    "timestamp": 1080.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_32400.jpg",
+    "frame_score": 28.90138888888889,
+    "content_score": 0.031032986111111112
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-heavy instruction because it shows a teacher speaking in front of a blackboard with no visible instructional content.",
+    "confidence": 0.8,
+    "frame_number": 33000,
+    "timestamp": 1100.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_33000.jpg",
+    "frame_score": 33.26845486111111,
+    "content_score": 0.031996527777777777
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible instructional content.",
+    "confidence": 0.8,
+    "frame_number": 33300,
+    "timestamp": 1110.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_33300.jpg",
+    "frame_score": 32.545625,
+    "content_score": 0.03392795138888889
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible instructional content.",
+    "confidence": 0.8,
+    "frame_number": 34200,
+    "timestamp": 1140.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_34200.jpg",
+    "frame_score": 15.39853298611111,
+    "content_score": 0.03139756944444445
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "diagram"
+    ],
+    "topics_observed": [
+      "The Treaty of Nerchinsk (1689)"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide about the Treaty of Nerchinsk (1689) and a historical map.",
+    "confidence": 0.9,
+    "frame_number": 34500,
+    "timestamp": 1150.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_34500.jpg",
+    "frame_score": 171.04862847222222,
+    "content_score": 0.0867795138888889
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible instructional content.",
+    "confidence": 0.8,
+    "frame_number": 39900,
+    "timestamp": 1330.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_39900.jpg",
+    "frame_score": 189.3616796875,
+    "content_score": 0.03219184027777778
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "diagram"
+    ],
+    "topics_observed": [
+      "Tibetans",
+      "Mongols",
+      "Qing Dynasty",
+      "Qing-Daungar Wars",
+      "Dzungar",
+      "Khakha",
+      "Dzungar Mongols",
+      "Qing Empire"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a historical map and images related to the Qing Dynasty's interactions with Tibetans and Mongols.",
+    "confidence": 0.9,
+    "frame_number": 40800,
+    "timestamp": 1360.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_40800.jpg",
+    "frame_score": 163.27953993055556,
+    "content_score": 0.10407986111111112
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-heavy instruction as the teacher is speaking in front of a whiteboard with no visible instructional content.",
+    "confidence": 0.9,
+    "frame_number": 51900,
+    "timestamp": 1730.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_51900.jpg",
+    "frame_score": 149.68442274305556,
+    "content_score": 0.0309765625
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "slide"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide and a teacher explaining concepts.",
+    "confidence": 0.9,
+    "frame_number": 52800,
+    "timestamp": 1760.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_52800.jpg",
+    "frame_score": 58.660221354166666,
+    "content_score": 0.038237847222222225
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "slide"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is explaining concepts while pointing to a presentation slide.",
+    "confidence": 0.8,
+    "frame_number": 53100,
+    "timestamp": 1770.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_53100.jpg",
+    "frame_score": 54.425855034722225,
+    "content_score": 0.03173611111111111
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "slide",
+      "diagram"
+    ],
+    "topics_observed": [
+      "geography"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction because it shows a teacher explaining a geography topic using a slide with a map.",
+    "confidence": 0.8,
+    "frame_number": 53400,
+    "timestamp": 1780.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_53400.jpg",
+    "frame_score": 21.806558159722222,
+    "content_score": 0.03700086805555555
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking while standing in front of a whiteboard with no visible instructional content.",
+    "confidence": 0.8,
+    "frame_number": 53700,
+    "timestamp": 1790.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_53700.jpg",
+    "frame_score": 54.604565972222225,
+    "content_score": 0.034965277777777776
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible student practice or code execution.",
+    "confidence": 0.9,
+    "frame_number": 54300,
+    "timestamp": 1810.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_54300.jpg",
+    "frame_score": 49.74070746527778,
+    "content_score": 0.03509548611111111
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "exercise_or_quiz",
+    "visual_elements": [
+      "slide",
+      "exercise"
+    ],
+    "topics_observed": [
+      "Where did the Manchus not pay attention?"
+    ],
+    "theory_score": 0.2,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.8,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of an exercise or quiz question about historical geography, as indicated by the text prompt and the accompanying map and image.",
+    "confidence": 0.8,
+    "frame_number": 56400,
+    "timestamp": 1880.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_56400.jpg",
+    "frame_score": 148.40172743055555,
+    "content_score": 0.07922743055555556
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "diagram",
+      "subtitle"
+    ],
+    "topics_observed": [
+      "Manchus",
+      "historical geography"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a slide with a historical geography diagram and a question about the Manchus.",
+    "confidence": 0.8,
+    "frame_number": 66600,
+    "timestamp": 2220.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_66600.jpg",
+    "frame_score": 7.6231640625,
+    "content_score": 0.09628472222222222
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "teacher"
+    ],
+    "topics_observed": [
+      "Kangxi",
+      "Yongzheng",
+      "Qianlong",
+      "reigns",
+      "rule"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide detailing the reigns of Qing emperors Kangxi, Yongzheng, and Qianlong.",
+    "confidence": 0.9,
+    "frame_number": 69900,
+    "timestamp": 2330.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_69900.jpg",
+    "frame_score": 55.535703125,
+    "content_score": 0.11381076388888889
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "slide"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking while a lecture slide is visible.",
+    "confidence": 0.9,
+    "frame_number": 72900,
+    "timestamp": 2430.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_72900.jpg",
+    "frame_score": 131.45078125,
+    "content_score": 0.04736111111111111
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "slide",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-heavy instruction as the teacher is speaking in front of a blackboard and a presentation slide.",
+    "confidence": 0.9,
+    "frame_number": 73200,
+    "timestamp": 2440.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_73200.jpg",
+    "frame_score": 54.78715277777778,
+    "content_score": 0.031302083333333335
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible student practice or code execution.",
+    "confidence": 0.8,
+    "frame_number": 73500,
+    "timestamp": 2450.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_73500.jpg",
+    "frame_score": 31.184713541666667,
+    "content_score": 0.03095052083333333
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "slide"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-heavy instruction as the teacher is speaking while standing in front of a blackboard and a slide.",
+    "confidence": 0.8,
+    "frame_number": 73800,
+    "timestamp": 2460.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_73800.jpg",
+    "frame_score": 26.12377170138889,
+    "content_score": 0.03253472222222222
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "teacher"
+    ],
+    "topics_observed": [
+      "Succession"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a slide titled '20 December 1722 and the Surprise Announcement of Successor' with a historical portrait.",
+    "confidence": 0.9,
+    "frame_number": 74100,
+    "timestamp": 2470.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_74100.jpg",
+    "frame_score": 98.52001736111112,
+    "content_score": 0.04136284722222222
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "teacher"
+    ],
+    "topics_observed": [
+      "succession",
+      "historical event"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a historical slide about the 1722 succession announcement.",
+    "confidence": 0.9,
+    "frame_number": 78900,
+    "timestamp": 2630.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_78900.jpg",
+    "frame_score": 17.83677951388889,
+    "content_score": 0.09216145833333333
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as it shows a teacher speaking in front of a blackboard with no visible instructional content.",
+    "confidence": 0.9,
+    "frame_number": 79200,
+    "timestamp": 2640.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_79200.jpg",
+    "frame_score": 73.08412760416667,
+    "content_score": 0.030316840277777778
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "teacher"
+    ],
+    "topics_observed": [
+      "Yongzheng's Reign from 1722 to 1735"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide about Yongzheng's reign, accompanied by historical imagery.",
+    "confidence": 0.9,
+    "frame_number": 81300,
+    "timestamp": 2710.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_81300.jpg",
+    "frame_score": 144.4300390625,
+    "content_score": 0.08665798611111111
+  },
+  {
+    "frame_type": "mixed",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "whiteboard"
+    ],
+    "topics_observed": [
+      "calligraphy",
+      "Chinese calligraphy styles"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a slide showing Chinese calligraphy examples and a whiteboard with calligraphy styles.",
+    "confidence": 0.9,
+    "frame_number": 88200,
+    "timestamp": 2940.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_88200.jpg",
+    "frame_score": 58.66521701388889,
+    "content_score": 0.04529947916666666
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a blackboard with no visible student practice or code execution.",
+    "confidence": 0.8,
+    "frame_number": 90000,
+    "timestamp": 3000.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_90000.jpg",
+    "frame_score": 158.2841232638889,
+    "content_score": 0.03264322916666667
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible instructional content.",
+    "confidence": 0.9,
+    "frame_number": 90600,
+    "timestamp": 3020.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_90600.jpg",
+    "frame_score": 39.74753472222222,
+    "content_score": 0.030421006944444443
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-heavy instruction as it shows a teacher speaking in front of a blackboard with no visible instructional content.",
+    "confidence": 0.9,
+    "frame_number": 90900,
+    "timestamp": 3030.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_90900.jpg",
+    "frame_score": 27.166393229166665,
+    "content_score": 0.0308984375
+  },
+  {
+    "frame_type": "mixed",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "code",
+      "subtitle"
+    ],
+    "topics_observed": [
+      "Python",
+      "date formatting",
+      "string formatting"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-heavy explanation with lecture slides and Python code examples, indicating a focus on conceptual understanding.",
+    "confidence": 0.8,
+    "frame_number": 91200,
+    "timestamp": 3040.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_91200.jpg",
+    "frame_score": 175.51516493055556,
+    "content_score": 0.10614583333333333
+  },
+  {
+    "frame_type": "mixed",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "subtitle",
+      "teacher"
+    ],
+    "topics_observed": [
+      "Zeng Jing Affair"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide about the Zeng Jing Affair, with a teacher speaking and subtitles visible.",
+    "confidence": 0.8,
+    "frame_number": 93600,
+    "timestamp": 3120.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_93600.jpg",
+    "frame_score": 92.13289496527777,
+    "content_score": 0.0830642361111111
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible instructional content.",
+    "confidence": 0.9,
+    "frame_number": 101100,
+    "timestamp": 3370.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_101100.jpg",
+    "frame_score": 112.70165798611112,
+    "content_score": 0.032513020833333336
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "teacher"
+    ],
+    "topics_observed": [
+      "A Taste for the Exotic"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide titled 'A Taste for the Exotic' and a portrait of a historical figure, indicating a focus on historical or cultural concepts.",
+    "confidence": 0.8,
+    "frame_number": 101400,
+    "timestamp": 3380.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_101400.jpg",
+    "frame_score": 155.27930989583334,
+    "content_score": 0.050946180555555554
+  },
+  {
+    "frame_type": "mixed",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "diagram",
+      "teacher"
+    ],
+    "topics_observed": [
+      "exotic culture",
+      "historical context"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through historical illustrations and a slide titled 'A Taste for the Exotic', indicating a focus on cultural or historical concepts.",
+    "confidence": 0.8,
+    "frame_number": 101700,
+    "timestamp": 3390.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_101700.jpg",
+    "frame_score": 27.793428819444443,
+    "content_score": 0.11295572916666667
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "diagram"
+    ],
+    "topics_observed": [
+      "Opium Question",
+      "Yongzheng"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide with a diagram of a poppy plant and text about the Opium Question.",
+    "confidence": 0.9,
+    "frame_number": 106200,
+    "timestamp": 3540.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_106200.jpg",
+    "frame_score": 59.4465234375,
+    "content_score": 0.04084201388888889
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "diagram"
+    ],
+    "topics_observed": [
+      "Opium imports into China",
+      "Yongzheng and the Opium Question"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide discussing opium imports into China during the Yongzheng era.",
+    "confidence": 0.9,
+    "frame_number": 107100,
+    "timestamp": 3570.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_107100.jpg",
+    "frame_score": 25.987664930555557,
+    "content_score": 0.08650173611111112
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "teacher"
+    ],
+    "topics_observed": [
+      "Yongzheng and the Music Households"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide titled 'Yongzheng and the Music Households' with accompanying historical illustrations.",
+    "confidence": 0.9,
+    "frame_number": 110700,
+    "timestamp": 3690.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_110700.jpg",
+    "frame_score": 48.613619791666665,
+    "content_score": 0.11647569444444444
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "teacher"
+    ],
+    "topics_observed": [
+      "Qianlong Emperor",
+      "Emperor (1711-1799)",
+      "r. 1736-1796"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a historical slide about the Qianlong Emperor.",
+    "confidence": 0.9,
+    "frame_number": 114600,
+    "timestamp": 3820.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_114600.jpg",
+    "frame_score": 49.123836805555555,
+    "content_score": 0.05918836805555556
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "diagram"
+    ],
+    "topics_observed": [
+      "historical campaigns",
+      "military strategy"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a historical slide depicting military campaigns.",
+    "confidence": 0.9,
+    "frame_number": 117900,
+    "timestamp": 3930.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_117900.jpg",
+    "frame_score": 53.23819878472222,
+    "content_score": 0.11317274305555555
+  },
+  {
+    "frame_type": "diagram",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "diagram"
+    ],
+    "topics_observed": [
+      "Empire of the Great Qing",
+      "Incorporation of Xinjiang into the Empire (1759)",
+      "Map of China (AD 1200)",
+      "Map of China (1759)"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through historical maps illustrating the Qing Empire's territorial expansion, specifically the incorporation of Xinjiang in 1759.",
+    "confidence": 0.9,
+    "frame_number": 120000,
+    "timestamp": 4000.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_120000.jpg",
+    "frame_score": 37.69387586805556,
+    "content_score": 0.11646701388888889
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "unknown"
+    ],
+    "topics_observed": [
+      "Qing Imperial Signage"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a slide displaying Qing Imperial Signage with multilingual text.",
+    "confidence": 0.8,
+    "frame_number": 121200,
+    "timestamp": 4040.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_121200.jpg",
+    "frame_score": 103.11654947916666,
+    "content_score": 0.10692708333333334
+  },
+  {
+    "frame_type": "diagram",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "diagram"
+    ],
+    "topics_observed": [
+      "Empire of the Great Qing",
+      "Xinjiang",
+      "1759",
+      "Incorporation of Xinjiang into the Empire"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a historical map illustrating the incorporation of Xinjiang into the Qing Empire in 1759.",
+    "confidence": 0.9,
+    "frame_number": 121500,
+    "timestamp": 4050.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_121500.jpg",
+    "frame_score": 103.33899739583333,
+    "content_score": 0.11604600694444445
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "slide",
+      "diagram"
+    ],
+    "topics_observed": [
+      "The Incorporation of Xinjiang"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide with a map and title about Xinjiang incorporation.",
+    "confidence": 0.9,
+    "frame_number": 122400,
+    "timestamp": 4080.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_122400.jpg",
+    "frame_score": 94.76106770833333,
+    "content_score": 0.03521267361111111
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "teacher"
+    ],
+    "topics_observed": [
+      "The Incorporation of Xinjiang into the"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide discussing Xinjiang's incorporation, with a teacher explaining the content.",
+    "confidence": 0.9,
+    "frame_number": 122700,
+    "timestamp": 4090.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_122700.jpg",
+    "frame_score": 60.33509982638889,
+    "content_score": 0.05936631944444445
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "slide",
+      "diagram"
+    ],
+    "topics_observed": [
+      "The Incorporation of Xinjiang into"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide with a map and title indicating a topic on Xinjiang's incorporation.",
+    "confidence": 0.9,
+    "frame_number": 123000,
+    "timestamp": 4100.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_123000.jpg",
+    "frame_score": 61.77453125,
+    "content_score": 0.05446614583333333
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "slide",
+      "diagram"
+    ],
+    "topics_observed": [
+      "The Incorporation of Xinjiang into"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide with a map and title indicating a topic on Xinjiang's incorporation.",
+    "confidence": 0.9,
+    "frame_number": 123300,
+    "timestamp": 4110.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_123300.jpg",
+    "frame_score": 16.1977734375,
+    "content_score": 0.04581597222222222
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "teacher"
+    ],
+    "topics_observed": [
+      "The Incorporation of Xinjiang into"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide discussing Xinjiang's incorporation, with a teacher presenting the content.",
+    "confidence": 0.8,
+    "frame_number": 123600,
+    "timestamp": 4120.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_123600.jpg",
+    "frame_score": 13.134305555555555,
+    "content_score": 0.046861979166666665
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "slide",
+      "whiteboard"
+    ],
+    "topics_observed": [
+      "lecture"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a blackboard and a presentation slide.",
+    "confidence": 0.9,
+    "frame_number": 123900,
+    "timestamp": 4130.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_123900.jpg",
+    "frame_score": 95.60107638888888,
+    "content_score": 0.039743923611111114
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "subtitle"
+    ],
+    "topics_observed": [
+      "Qing Imperial Signage"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a slide displaying Qing Imperial Signage with multilingual text.",
+    "confidence": 0.9,
+    "frame_number": 124200,
+    "timestamp": 4140.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_124200.jpg",
+    "frame_score": 104.27444878472222,
+    "content_score": 0.10592013888888889
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "diagram"
+    ],
+    "topics_observed": [
+      "Empire of the Great Qing",
+      "geographical boundaries",
+      "historical empire"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a historical map of the Great Qing Empire, illustrating geographical boundaries and historical context.",
+    "confidence": 0.9,
+    "frame_number": 127200,
+    "timestamp": 4240.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_127200.jpg",
+    "frame_score": 105.86142795138889,
+    "content_score": 0.1584157986111111
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "subtitle"
+    ],
+    "topics_observed": [
+      "Qing Imperial Signage"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a slide displaying Qing Imperial Signage with bilingual text.",
+    "confidence": 0.9,
+    "frame_number": 127500,
+    "timestamp": 4250.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_127500.jpg",
+    "frame_score": 105.78138020833333,
+    "content_score": 0.10638020833333334
+  },
+  {
+    "frame_type": "mixed",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "diagram",
+      "teacher"
+    ],
+    "topics_observed": [
+      "architecture",
+      "historical structures"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through historical architectural diagrams and slide content.",
+    "confidence": 0.8,
+    "frame_number": 127800,
+    "timestamp": 4260.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_127800.jpg",
+    "frame_score": 95.10917100694445,
+    "content_score": 0.168984375
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "subtitle"
+    ],
+    "topics_observed": [
+      "Chinese poetry",
+      "literary translation",
+      "historical context"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-heavy instruction through a slide with Chinese poetry translation and historical context, supported by subtitles.",
+    "confidence": 0.9,
+    "frame_number": 128700,
+    "timestamp": 4290.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_128700.jpg",
+    "frame_score": 79.49735677083333,
+    "content_score": 0.1379123263888889
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide"
+    ],
+    "topics_observed": [
+      "copyright information",
+      "image credits"
+    ],
+    "theory_score": 0.3,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides weak educational evidence as it displays copyright information and image credits, which are administrative rather than instructional content.",
+    "confidence": 0.8,
+    "frame_number": 129900,
+    "timestamp": 4330.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_129900.jpg",
+    "frame_score": 135.1901953125,
+    "content_score": 0.08606336805555556
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "subtitle"
+    ],
+    "topics_observed": [
+      "copyright information",
+      "image credits"
+    ],
+    "theory_score": 0.3,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides weak educational evidence as it displays copyright information and image credits, which are administrative rather than instructional content.",
+    "confidence": 0.8,
+    "frame_number": 130200,
+    "timestamp": 4340.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_130200.jpg",
+    "frame_score": 13.34646267361111,
+    "content_score": 0.0805859375
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "subtitle"
+    ],
+    "topics_observed": [
+      "Sources of content used with permission",
+      "Die Insel Formosa Neu Abgemessen aus Besehl Kaysers Kamhi",
+      "Portrait of Shi Lang",
+      "Manchuria-U.S.S.R. boundary"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory explanation through a slide listing sources of content used with permission, including historical and geographical references.",
+    "confidence": 0.9,
+    "frame_number": 130500,
+    "timestamp": 4350.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_130500.jpg",
+    "frame_score": 20.922612847222222,
+    "content_score": 0.07497395833333333
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "subtitle"
+    ],
+    "topics_observed": [
+      "historical art",
+      "public domain images"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a slide listing sources of historical art images with public domain information.",
+    "confidence": 0.9,
+    "frame_number": 130800,
+    "timestamp": 4360.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_130800.jpg",
+    "frame_score": 20.057838541666666,
+    "content_score": 0.08723958333333333
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "subtitle"
+    ],
+    "topics_observed": [
+      "Sources of content used with permission",
+      "Portrait of the Qianlong emperor as the bodhisattva Manjushri",
+      "Giuseppe Cataglia",
+      "Freer Gallery of Art",
+      "Wikimedia Commons",
+      "public domain"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a slide explaining content sources and copyright information for an image.",
+    "confidence": 0.9,
+    "frame_number": 131100,
+    "timestamp": 4370.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame2\\frame_131100.jpg",
+    "frame_score": 16.201453993055555,
+    "content_score": 0.04555121527777778
+  }
+]

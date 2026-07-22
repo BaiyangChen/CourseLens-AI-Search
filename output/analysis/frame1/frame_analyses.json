@@ -1,0 +1,2731 @@
+[
+  {
+    "frame_type": "blank",
+    "teaching_activity": "transition",
+    "visual_elements": [
+      "blank"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.0,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe is a blank screen with no visible educational content.",
+    "confidence": 1.0,
+    "frame_number": 0,
+    "timestamp": 0.0,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_0000.jpg",
+    "frame_score": 0.0,
+    "content_score": 0.0
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "teacher"
+    ],
+    "topics_observed": [
+      "Introduction to Computer Science and Programming in Python",
+      "Branching and Iteration"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide outlining the course topic and lecture content.",
+    "confidence": 0.9,
+    "frame_number": 299,
+    "timestamp": 9.976633333333334,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_0299.jpg",
+    "frame_score": 58.80392939814815,
+    "content_score": 0.06777777777777778
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible student practice or code execution.",
+    "confidence": 0.9,
+    "frame_number": 1196,
+    "timestamp": 39.906533333333336,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_1196.jpg",
+    "frame_score": 53.475028935185186,
+    "content_score": 0.03567708333333333
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "subtitle"
+    ],
+    "topics_observed": [
+      "branching",
+      "iteration"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-heavy lecture content with a slide titled 'BRANCHING, ITERATION' and a subtitle instructing to download slides and .py files.",
+    "confidence": 0.9,
+    "frame_number": 1495,
+    "timestamp": 49.88316666666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_1495.jpg",
+    "frame_score": 134.40979166666668,
+    "content_score": 0.034936342592592595
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "slide",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction because it shows a teacher speaking in front of a blackboard and a presentation slide.",
+    "confidence": 0.9,
+    "frame_number": 1794,
+    "timestamp": 59.8598,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_1794.jpg",
+    "frame_score": 136.0438946759259,
+    "content_score": 0.036487268518518516
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible student practice or code execution.",
+    "confidence": 0.9,
+    "frame_number": 2093,
+    "timestamp": 69.83643333333333,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_2093.jpg",
+    "frame_score": 43.05229166666667,
+    "content_score": 0.03590856481481482
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "slide"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard and a slide, with no visible hands-on activities or student exercises.",
+    "confidence": 0.9,
+    "frame_number": 2392,
+    "timestamp": 79.81306666666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_2392.jpg",
+    "frame_score": 42.9832349537037,
+    "content_score": 0.03267361111111111
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible instructional content.",
+    "confidence": 0.8,
+    "frame_number": 2990,
+    "timestamp": 99.76633333333334,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_2990.jpg",
+    "frame_score": 36.17123263888889,
+    "content_score": 0.03009837962962963
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "slide",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of teacher-led explanation with a slide and software interface visible, indicating a lecture-style presentation.",
+    "confidence": 0.8,
+    "frame_number": 3289,
+    "timestamp": 109.74296666666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_3289.jpg",
+    "frame_score": 40.83429976851852,
+    "content_score": 0.03543981481481481
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "strings",
+      "enclose in quotation marks",
+      "concatenate strings",
+      "operations on strings"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide explaining string concepts in Python, with visible code examples for concatenation and operations.",
+    "confidence": 0.9,
+    "frame_number": 3887,
+    "timestamp": 129.69623333333334,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_3887.jpg",
+    "frame_score": 141.00980324074075,
+    "content_score": 0.044583333333333336
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe shows a teacher standing at a whiteboard with a laptop, indicating a lecture-style teaching approach with some hands-on elements.",
+    "confidence": 0.8,
+    "frame_number": 6578,
+    "timestamp": 219.48593333333335,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_6578.jpg",
+    "frame_score": 139.7538715277778,
+    "content_score": 0.03273148148148148
+  },
+  {
+    "frame_type": "code",
+    "teaching_activity": "live_coding",
+    "visual_elements": [
+      "code",
+      "software_interface"
+    ],
+    "topics_observed": [
+      "Python strings",
+      "variable assignment",
+      "string formatting",
+      "print statements",
+      "string concatenation"
+    ],
+    "theory_score": 0.1,
+    "hands_on_score": 0.9,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code in an IDE with visible variable assignments and string operations.",
+    "confidence": 0.9,
+    "frame_number": 6877,
+    "timestamp": 229.46256666666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_6877.jpg",
+    "frame_score": 155.2725115740741,
+    "content_score": 0.09369791666666667
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible student practice or code execution.",
+    "confidence": 0.9,
+    "frame_number": 7475,
+    "timestamp": 249.41583333333332,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_7475.jpg",
+    "frame_score": 155.1926215277778,
+    "content_score": 0.03638888888888889
+  },
+  {
+    "frame_type": "code",
+    "teaching_activity": "live_coding",
+    "visual_elements": [
+      "code",
+      "software_interface"
+    ],
+    "topics_observed": [
+      "Python strings",
+      "string concatenation",
+      "print function",
+      "variable assignment",
+      "f-string formatting"
+    ],
+    "theory_score": 0.1,
+    "hands_on_score": 0.9,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code in an IDE with visible variable assignments and string operations.",
+    "confidence": 0.9,
+    "frame_number": 8073,
+    "timestamp": 269.3691,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_8073.jpg",
+    "frame_score": 154.275625,
+    "content_score": 0.10011574074074074
+  },
+  {
+    "frame_type": "mixed",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "software_interface",
+      "blank"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.7,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe shows a teacher speaking at a desk with a laptop and other devices, indicating a lecture-style teaching activity with minimal hands-on evidence.",
+    "confidence": 0.8,
+    "frame_number": 8671,
+    "timestamp": 289.32236666666665,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_8671.jpg",
+    "frame_score": 161.51652199074073,
+    "content_score": 0.03142939814814815
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible instructional content.",
+    "confidence": 0.8,
+    "frame_number": 8970,
+    "timestamp": 299.299,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_8970.jpg",
+    "frame_score": 38.749837962962964,
+    "content_score": 0.033790509259259256
+  },
+  {
+    "frame_type": "code",
+    "teaching_activity": "live_coding",
+    "visual_elements": [
+      "code",
+      "software_interface"
+    ],
+    "topics_observed": [
+      "Python loops",
+      "string concatenation",
+      "file operations",
+      "print statements"
+    ],
+    "theory_score": 0.1,
+    "hands_on_score": 0.9,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code in an IDE with visible terminal output and file operations.",
+    "confidence": 0.9,
+    "frame_number": 9269,
+    "timestamp": 309.27563333333336,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_9269.jpg",
+    "frame_score": 149.57936342592592,
+    "content_score": 0.11574652777777777
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-heavy instruction as the teacher is speaking in front of a whiteboard with no visible student practice or code execution.",
+    "confidence": 0.8,
+    "frame_number": 9568,
+    "timestamp": 319.2522666666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_9568.jpg",
+    "frame_score": 151.74265046296296,
+    "content_score": 0.031921296296296295
+  },
+  {
+    "frame_type": "code",
+    "teaching_activity": "live_coding",
+    "visual_elements": [
+      "code",
+      "software_interface"
+    ],
+    "topics_observed": [
+      "Python loops",
+      "string concatenation",
+      "print function",
+      "variable assignment"
+    ],
+    "theory_score": 0.1,
+    "hands_on_score": 0.9,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code in an IDE with visible execution output.",
+    "confidence": 0.9,
+    "frame_number": 9867,
+    "timestamp": 329.2289,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_9867.jpg",
+    "frame_score": 151.80655671296296,
+    "content_score": 0.11458333333333333
+  },
+  {
+    "frame_type": "code",
+    "teaching_activity": "live_coding",
+    "visual_elements": [
+      "code",
+      "software_interface"
+    ],
+    "topics_observed": [
+      "Python loops",
+      "string concatenation",
+      "print output"
+    ],
+    "theory_score": 0.1,
+    "hands_on_score": 0.9,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code in an IDE with visible execution output.",
+    "confidence": 0.9,
+    "frame_number": 10764,
+    "timestamp": 359.1588,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_10764.jpg",
+    "frame_score": 6.470162037037037,
+    "content_score": 0.12588541666666667
+  },
+  {
+    "frame_type": "unknown",
+    "teaching_activity": "unknown",
+    "visual_elements": [
+      "unknown"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.0,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "visible_text_summary": null,
+    "evidence_summary": "Failed to parse model response.",
+    "confidence": 0.0,
+    "error": "Failed to parse JSON",
+    "raw_response": "",
+    "frame_number": 11661,
+    "timestamp": 389.0887,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_11661.jpg",
+    "frame_score": 148.0170659722222,
+    "content_score": 0.03487268518518519
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "print output",
+      "console",
+      "variables",
+      "string concatenation"
+    ],
+    "theory_score": 0.3,
+    "hands_on_score": 0.7,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code examples for print output and string concatenation.",
+    "confidence": 0.9,
+    "frame_number": 11960,
+    "timestamp": 399.06533333333334,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_11960.jpg",
+    "frame_score": 146.4236574074074,
+    "content_score": 0.034722222222222224
+  },
+  {
+    "frame_type": "mixed",
+    "teaching_activity": "live_coding",
+    "visual_elements": [
+      "teacher",
+      "code",
+      "software_interface"
+    ],
+    "topics_observed": [
+      "coding"
+    ],
+    "theory_score": 0.1,
+    "hands_on_score": 0.9,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows a teacher interacting with a laptop displaying code.",
+    "confidence": 0.8,
+    "frame_number": 12259,
+    "timestamp": 409.04196666666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_12259.jpg",
+    "frame_score": 146.7884085648148,
+    "content_score": 0.03134837962962963
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "print function",
+      "output to console",
+      "variable assignment",
+      "string conversion"
+    ],
+    "theory_score": 0.3,
+    "hands_on_score": 0.7,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code examples demonstrating print function usage and string conversion.",
+    "confidence": 0.8,
+    "frame_number": 12558,
+    "timestamp": 419.0186,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_12558.jpg",
+    "frame_score": 146.41287037037037,
+    "content_score": 0.04010416666666667
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction because it shows a teacher speaking in front of a whiteboard.",
+    "confidence": 0.9,
+    "frame_number": 12857,
+    "timestamp": 428.9952333333333,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_12857.jpg",
+    "frame_score": 155.53697337962964,
+    "content_score": 0.030491898148148146
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "print function",
+      "console output",
+      "variable assignment",
+      "string conversion"
+    ],
+    "theory_score": 0.3,
+    "hands_on_score": 0.7,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code examples demonstrating the print function and string conversion.",
+    "confidence": 0.8,
+    "frame_number": 13455,
+    "timestamp": 448.9485,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_13455.jpg",
+    "frame_score": 155.53259259259258,
+    "content_score": 0.04012731481481482
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-heavy instruction as the teacher is speaking while standing in front of a whiteboard with no visible instructional content.",
+    "confidence": 0.8,
+    "frame_number": 13754,
+    "timestamp": 458.92513333333335,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_13754.jpg",
+    "frame_score": 149.89201967592592,
+    "content_score": 0.030260416666666668
+  },
+  {
+    "frame_type": "code",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "code",
+      "software_interface"
+    ],
+    "topics_observed": [
+      "Python loops",
+      "print output",
+      "variable assignment"
+    ],
+    "theory_score": 0.2,
+    "hands_on_score": 0.8,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code in an IDE with visible execution output and variable assignments.",
+    "confidence": 0.9,
+    "frame_number": 15249,
+    "timestamp": 508.80830000000003,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_15249.jpg",
+    "frame_score": 150.01912037037036,
+    "content_score": 0.1263425925925926
+  },
+  {
+    "frame_type": "code",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "code",
+      "software_interface"
+    ],
+    "topics_observed": [
+      "Python loops",
+      "string concatenation",
+      "print statements"
+    ],
+    "theory_score": 0.2,
+    "hands_on_score": 0.8,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code in an IDE with visible execution outputs and string concatenation examples.",
+    "confidence": 0.8,
+    "frame_number": 15548,
+    "timestamp": 518.7849333333334,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_15548.jpg",
+    "frame_score": 3.0430324074074075,
+    "content_score": 0.12540509259259258
+  },
+  {
+    "frame_type": "code",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "code",
+      "software_interface"
+    ],
+    "topics_observed": [
+      "Python loops",
+      "string concatenation",
+      "print output"
+    ],
+    "theory_score": 0.2,
+    "hands_on_score": 0.8,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code in an IDE with visible execution output and string concatenation examples.",
+    "confidence": 0.9,
+    "frame_number": 15847,
+    "timestamp": 528.7615666666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_15847.jpg",
+    "frame_score": 3.912517361111111,
+    "content_score": 0.12580439814814814
+  },
+  {
+    "frame_type": "code",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "code",
+      "terminal"
+    ],
+    "topics_observed": [
+      "Python loops",
+      "string concatenation",
+      "variable assignment",
+      "print statements"
+    ],
+    "theory_score": 0.2,
+    "hands_on_score": 0.8,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code in an IDE with terminal output demonstrating string concatenation and loop operations.",
+    "confidence": 0.9,
+    "frame_number": 16445,
+    "timestamp": 548.7148333333333,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_16445.jpg",
+    "frame_score": 9.1525,
+    "content_score": 0.10947916666666667
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "slide",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a slide and a laptop with visible software interface.",
+    "confidence": 0.8,
+    "frame_number": 17043,
+    "timestamp": 568.6681,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_17043.jpg",
+    "frame_score": 160.04748263888888,
+    "content_score": 0.03530671296296296
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of teacher-led explanation with a whiteboard and software interface visible, indicating a lecture-style teaching approach.",
+    "confidence": 0.8,
+    "frame_number": 17342,
+    "timestamp": 578.6447333333333,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_17342.jpg",
+    "frame_score": 34.199560185185184,
+    "content_score": 0.03121527777777778
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking while standing near a whiteboard and a laptop, with no visible student practice or code execution.",
+    "confidence": 0.9,
+    "frame_number": 17641,
+    "timestamp": 588.6213666666666,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_17641.jpg",
+    "frame_score": 18.68922453703704,
+    "content_score": 0.030005787037037036
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "input function",
+      "variable binding",
+      "string input",
+      "type conversion"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.3,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory explanation through a lecture slide on Python input function usage, including code examples for variable binding and string input handling.",
+    "confidence": 0.9,
+    "frame_number": 17940,
+    "timestamp": 598.598,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_17940.jpg",
+    "frame_score": 146.0390972222222,
+    "content_score": 0.0503125
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of teacher-led explanation with a whiteboard and software interface visible, indicating a lecture-style teaching approach.",
+    "confidence": 0.8,
+    "frame_number": 18239,
+    "timestamp": 608.5746333333334,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_18239.jpg",
+    "frame_score": 137.02526041666667,
+    "content_score": 0.037395833333333336
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "input function",
+      "variable binding",
+      "string input",
+      "type conversion"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.3,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory explanation through a lecture slide detailing Python's input function, variable binding, and string handling, with code examples demonstrating string input and type conversion.",
+    "confidence": 0.9,
+    "frame_number": 19435,
+    "timestamp": 648.4811666666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_19435.jpg",
+    "frame_score": 137.0404861111111,
+    "content_score": 0.050341435185185184
+  },
+  {
+    "frame_type": "code",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "code",
+      "software_interface"
+    ],
+    "topics_observed": [
+      "input",
+      "variables",
+      "print output",
+      "loops"
+    ],
+    "theory_score": 0.2,
+    "hands_on_score": 0.8,
+    "exercise_score": 0.2,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code in an IDE with examples of input handling and loop structures.",
+    "confidence": 0.9,
+    "frame_number": 22126,
+    "timestamp": 738.2708666666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_22126.jpg",
+    "frame_score": 74.20302083333333,
+    "content_score": 0.1281539351851852
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible student practice or code execution.",
+    "confidence": 0.9,
+    "frame_number": 22425,
+    "timestamp": 748.2475000000001,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_22425.jpg",
+    "frame_score": 159.87499421296297,
+    "content_score": 0.03482060185185185
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as it shows a teacher speaking in a classroom setting with a blackboard in the background.",
+    "confidence": 0.9,
+    "frame_number": 22724,
+    "timestamp": 758.2241333333334,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_22724.jpg",
+    "frame_score": 38.99017939814815,
+    "content_score": 0.03308449074074074
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-heavy instruction because it shows a teacher speaking in front of a whiteboard with no visible student activity or content.",
+    "confidence": 0.9,
+    "frame_number": 23322,
+    "timestamp": 778.1774,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_23322.jpg",
+    "frame_score": 19.996087962962964,
+    "content_score": 0.03170138888888889
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "comparison operators",
+      "int",
+      "float",
+      "string",
+      "equality test",
+      "inequality test"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-heavy explanation through a lecture slide detailing comparison operators on different data types with examples.",
+    "confidence": 0.9,
+    "frame_number": 23920,
+    "timestamp": 798.1306666666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_23920.jpg",
+    "frame_score": 150.8272685185185,
+    "content_score": 0.04995949074074074
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of teacher-led explanation with a visible whiteboard and software interface, indicating a lecture-style teaching approach.",
+    "confidence": 0.8,
+    "frame_number": 24219,
+    "timestamp": 808.1073,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_24219.jpg",
+    "frame_score": 145.14572916666665,
+    "content_score": 0.03684027777777778
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "comparison operators",
+      "int",
+      "float",
+      "string",
+      "boolean",
+      "equality test",
+      "inequality test"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide explaining comparison operators on different data types.",
+    "confidence": 0.9,
+    "frame_number": 24518,
+    "timestamp": 818.0839333333333,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_24518.jpg",
+    "frame_score": 145.12744791666665,
+    "content_score": 0.04994212962962963
+  },
+  {
+    "frame_type": "code",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "code",
+      "terminal"
+    ],
+    "topics_observed": [
+      "Python loops",
+      "type conversion",
+      "input handling"
+    ],
+    "theory_score": 0.2,
+    "hands_on_score": 0.8,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code in an IDE with terminal output demonstrating type conversion and input handling.",
+    "confidence": 0.9,
+    "frame_number": 25714,
+    "timestamp": 857.9904666666666,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_25714.jpg",
+    "frame_score": 73.6462962962963,
+    "content_score": 0.11560763888888889
+  },
+  {
+    "frame_type": "mixed",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "software_interface",
+      "blank"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.7,
+    "hands_on_score": 0.1,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe shows a teacher standing at a desk with a laptop and other devices, indicating a lecture-style presentation with minimal hands-on activity.",
+    "confidence": 0.8,
+    "frame_number": 26013,
+    "timestamp": 867.9671,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_26013.jpg",
+    "frame_score": 162.95212384259258,
+    "content_score": 0.034722222222222224
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "comparison operators",
+      "int",
+      "float",
+      "string",
+      "equality test",
+      "inequality test"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-heavy explanation through a lecture slide detailing comparison operators on different data types.",
+    "confidence": 0.9,
+    "frame_number": 26611,
+    "timestamp": 887.9203666666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_26611.jpg",
+    "frame_score": 148.18185185185186,
+    "content_score": 0.04992476851851852
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking while standing near a whiteboard.",
+    "confidence": 0.9,
+    "frame_number": 27209,
+    "timestamp": 907.8736333333334,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_27209.jpg",
+    "frame_score": 150.6723726851852,
+    "content_score": 0.03204282407407407
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking while standing near a whiteboard with no visible instructional content.",
+    "confidence": 0.9,
+    "frame_number": 28106,
+    "timestamp": 937.8035333333333,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_28106.jpg",
+    "frame_score": 40.45178240740741,
+    "content_score": 0.03136574074074074
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "teacher"
+    ],
+    "topics_observed": [
+      "logic operators on bools",
+      "boolean values",
+      "not a",
+      "a and b",
+      "a or b",
+      "truth tables"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-heavy explanation through a lecture slide detailing logic operators on Boolean values with truth tables.",
+    "confidence": 0.9,
+    "frame_number": 28405,
+    "timestamp": 947.7801666666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_28405.jpg",
+    "frame_score": 128.83695601851852,
+    "content_score": 0.06183449074074074
+  },
+  {
+    "frame_type": "unknown",
+    "teaching_activity": "unknown",
+    "visual_elements": [
+      "unknown"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.0,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "visible_text_summary": null,
+    "evidence_summary": "Failed to parse model response.",
+    "confidence": 0.0,
+    "error": "Failed to parse JSON",
+    "raw_response": "",
+    "frame_number": 29900,
+    "timestamp": 997.6633333333333,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_29900.jpg",
+    "frame_score": 141.01979745370372,
+    "content_score": 0.030376157407407407
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of teacher-led explanation with a whiteboard and software interface visible, indicating a lecture-style teaching approach.",
+    "confidence": 0.8,
+    "frame_number": 30199,
+    "timestamp": 1007.6399666666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_30199.jpg",
+    "frame_score": 30.863865740740742,
+    "content_score": 0.034346064814814815
+  },
+  {
+    "frame_type": "diagram",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "diagram"
+    ],
+    "topics_observed": [
+      "urban planning",
+      "city layout"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a detailed urban planning diagram illustrating city layout and infrastructure.",
+    "confidence": 0.9,
+    "frame_number": 30797,
+    "timestamp": 1027.5932333333333,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_30797.jpg",
+    "frame_score": 138.16548032407408,
+    "content_score": 0.11825231481481481
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of teacher-led explanation with a whiteboard and software interface visible, indicating a lecture-style teaching approach.",
+    "confidence": 0.8,
+    "frame_number": 31395,
+    "timestamp": 1047.5465,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_31395.jpg",
+    "frame_score": 138.33831018518518,
+    "content_score": 0.03116898148148148
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "slide",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.7,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of teacher-led explanation with a visible slide and software interface, indicating a lecture-style teaching approach.",
+    "confidence": 0.8,
+    "frame_number": 31694,
+    "timestamp": 1057.5231333333334,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_31694.jpg",
+    "frame_score": 45.1345775462963,
+    "content_score": 0.035734953703703706
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible student practice or code execution.",
+    "confidence": 0.9,
+    "frame_number": 31993,
+    "timestamp": 1067.4997666666666,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_31993.jpg",
+    "frame_score": 41.316805555555554,
+    "content_score": 0.03622106481481482
+  },
+  {
+    "frame_type": "diagram",
+    "teaching_activity": "exercise_or_quiz",
+    "visual_elements": [
+      "diagram",
+      "exercise"
+    ],
+    "topics_observed": [
+      "maze navigation",
+      "directional instructions"
+    ],
+    "theory_score": 0.2,
+    "hands_on_score": 0.5,
+    "exercise_score": 0.8,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of an exercise-based learning activity where students must navigate a maze to reach 'free food' using directional instructions.",
+    "confidence": 0.8,
+    "frame_number": 32591,
+    "timestamp": 1087.4530333333335,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_32591.jpg",
+    "frame_score": 149.8978587962963,
+    "content_score": 0.040011574074074074
+  },
+  {
+    "frame_type": "diagram",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "diagram",
+      "exercise"
+    ],
+    "topics_observed": [
+      "maze navigation",
+      "directional movement",
+      "free food"
+    ],
+    "theory_score": 0.2,
+    "hands_on_score": 0.8,
+    "exercise_score": 0.6,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows a maze navigation diagram with directional movement instructions and a free food goal.",
+    "confidence": 0.8,
+    "frame_number": 33488,
+    "timestamp": 1117.3829333333333,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_33488.jpg",
+    "frame_score": 3.565896990740741,
+    "content_score": 0.0584837962962963
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "slide"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard and a slide, with no visible hands-on activities or exercises.",
+    "confidence": 0.9,
+    "frame_number": 34385,
+    "timestamp": 1147.3128333333334,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_34385.jpg",
+    "frame_score": 155.02688657407407,
+    "content_score": 0.03234953703703704
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of teacher-led explanation with a whiteboard and software interface visible, indicating a lecture-style teaching approach.",
+    "confidence": 0.8,
+    "frame_number": 35581,
+    "timestamp": 1187.2193666666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_35581.jpg",
+    "frame_score": 45.03200810185185,
+    "content_score": 0.034930555555555555
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with a laptop and software interface visible.",
+    "confidence": 0.8,
+    "frame_number": 35880,
+    "timestamp": 1197.196,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_35880.jpg",
+    "frame_score": 25.316765046296297,
+    "content_score": 0.034722222222222224
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "code",
+      "diagram"
+    ],
+    "topics_observed": [
+      "control flow",
+      "branching",
+      "if condition",
+      "else statement"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide explaining control flow branching with if and else statements.",
+    "confidence": 0.9,
+    "frame_number": 36179,
+    "timestamp": 1207.1726333333334,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_36179.jpg",
+    "frame_score": 143.87012152777777,
+    "content_score": 0.07309027777777778
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "slide",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of teacher-led explanation with a visible slide and software interface, indicating a lecture-style presentation.",
+    "confidence": 0.8,
+    "frame_number": 37674,
+    "timestamp": 1257.0558,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_37674.jpg",
+    "frame_score": 145.97893518518518,
+    "content_score": 0.03456597222222222
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible student practice or code execution.",
+    "confidence": 0.9,
+    "frame_number": 37973,
+    "timestamp": 1267.0324333333333,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_37973.jpg",
+    "frame_score": 20.343229166666667,
+    "content_score": 0.034386574074074076
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "diagram"
+    ],
+    "topics_observed": [
+      "control flow",
+      "branching",
+      "if condition",
+      "true or false"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide explaining control flow branching with if conditions and their evaluation.",
+    "confidence": 0.9,
+    "frame_number": 38571,
+    "timestamp": 1286.9857,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_38571.jpg",
+    "frame_score": 145.56329282407407,
+    "content_score": 0.07209490740740741
+  },
+  {
+    "frame_type": "mixed",
+    "teaching_activity": "live_coding",
+    "visual_elements": [
+      "teacher",
+      "code",
+      "software_interface"
+    ],
+    "topics_observed": [
+      "coding"
+    ],
+    "theory_score": 0.2,
+    "hands_on_score": 0.8,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows a teacher actively working on a laptop with visible code and software interface.",
+    "confidence": 0.8,
+    "frame_number": 39767,
+    "timestamp": 1326.8922333333333,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_39767.jpg",
+    "frame_score": 145.64218171296295,
+    "content_score": 0.03112847222222222
+  },
+  {
+    "frame_type": "mixed",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "software_interface",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of teacher-led explanation with a visible whiteboard and software interface, indicating a lecture-style teaching approach.",
+    "confidence": 0.8,
+    "frame_number": 40066,
+    "timestamp": 1336.8688666666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_40066.jpg",
+    "frame_score": 24.81568287037037,
+    "content_score": 0.030804398148148147
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible instructional content.",
+    "confidence": 0.9,
+    "frame_number": 40365,
+    "timestamp": 1346.8455000000001,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_40365.jpg",
+    "frame_score": 26.398640046296297,
+    "content_score": 0.03092013888888889
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "control flow",
+      "branching",
+      "if condition",
+      "else"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide explaining control flow branching with if and else conditions.",
+    "confidence": 0.9,
+    "frame_number": 40664,
+    "timestamp": 1356.8221333333333,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_40664.jpg",
+    "frame_score": 147.95605902777777,
+    "content_score": 0.07097222222222223
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible student practice or code execution.",
+    "confidence": 0.8,
+    "frame_number": 43355,
+    "timestamp": 1446.6118333333334,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_43355.jpg",
+    "frame_score": 138.51659143518518,
+    "content_score": 0.03518518518518519
+  },
+  {
+    "frame_type": "unknown",
+    "teaching_activity": "unknown",
+    "visual_elements": [
+      "unknown"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.0,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "visible_text_summary": null,
+    "evidence_summary": "Failed to parse model response.",
+    "confidence": 0.0,
+    "error": "Failed to parse JSON",
+    "raw_response": "",
+    "frame_number": 43953,
+    "timestamp": 1466.5651,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_43953.jpg",
+    "frame_score": 42.458246527777774,
+    "content_score": 0.03340277777777778
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "slide",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of teacher-led explanation with a visible lecture slide and a laptop showing software interface, indicating a slide-based teaching approach.",
+    "confidence": 0.8,
+    "frame_number": 44551,
+    "timestamp": 1486.5183666666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_44551.jpg",
+    "frame_score": 29.92010416666667,
+    "content_score": 0.03166087962962963
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "indentation",
+      "Python",
+      "code blocks",
+      "if statements",
+      "else statements"
+    ],
+    "theory_score": 0.3,
+    "hands_on_score": 0.7,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code with indentation examples for conditional statements.",
+    "confidence": 0.9,
+    "frame_number": 44850,
+    "timestamp": 1496.4950000000001,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_44850.jpg",
+    "frame_score": 143.34377893518518,
+    "content_score": 0.055706018518518516
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with a laptop visible.",
+    "confidence": 0.8,
+    "frame_number": 46046,
+    "timestamp": 1536.4015333333334,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_46046.jpg",
+    "frame_score": 138.63325231481483,
+    "content_score": 0.03171875
+  },
+  {
+    "frame_type": "code",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "code",
+      "slide"
+    ],
+    "topics_observed": [
+      "Python",
+      "variables",
+      "comparison operators",
+      "if-else statements",
+      "division operation"
+    ],
+    "theory_score": 0.2,
+    "hands_on_score": 0.8,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code demonstrating comparison operators and conditional statements.",
+    "confidence": 0.9,
+    "frame_number": 46345,
+    "timestamp": 1546.3781666666666,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_46345.jpg",
+    "frame_score": 143.57903935185186,
+    "content_score": 0.047065972222222224
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking while standing near a whiteboard with no visible instructional content.",
+    "confidence": 0.8,
+    "frame_number": 47242,
+    "timestamp": 1576.3080666666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_47242.jpg",
+    "frame_score": 138.09140625,
+    "content_score": 0.03054398148148148
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "Legend of Zelda – Lost Woods",
+      "game mechanics",
+      "loop concept"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction on game mechanics and loop concepts through a lecture slide and code snippet.",
+    "confidence": 0.8,
+    "frame_number": 47840,
+    "timestamp": 1596.2613333333334,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_47840.jpg",
+    "frame_score": 126.90352430555555,
+    "content_score": 0.08557291666666667
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "Legend of Zelda – Lost Woods",
+      "game mechanics",
+      "loop concept"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction with a game example explaining loop mechanics in a programming context.",
+    "confidence": 0.9,
+    "frame_number": 48737,
+    "timestamp": 1626.1912333333335,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_48737.jpg",
+    "frame_score": 6.624270833333333,
+    "content_score": 0.08891203703703704
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "Legend of Zelda – Lost Woods",
+      "game mechanics",
+      "loop concept"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide explaining game mechanics and loop concepts, accompanied by visible code snippets.",
+    "confidence": 0.8,
+    "frame_number": 49335,
+    "timestamp": 1646.1445,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_49335.jpg",
+    "frame_score": 4.312401620370371,
+    "content_score": 0.09463541666666667
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "Legend of Zelda – Lost Woods",
+      "while loop",
+      "background setting"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction with a slide explaining a game loop concept and visible code snippets for background setting.",
+    "confidence": 0.8,
+    "frame_number": 51129,
+    "timestamp": 1706.0043,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_51129.jpg",
+    "frame_score": 12.279594907407407,
+    "content_score": 0.06752314814814815
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "control flow",
+      "while loops",
+      "condition evaluation",
+      "Boolean values"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-heavy explanation through a lecture slide detailing while loop mechanics and condition evaluation.",
+    "confidence": 0.9,
+    "frame_number": 52325,
+    "timestamp": 1745.9108333333334,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_52325.jpg",
+    "frame_score": 29.348148148148148,
+    "content_score": 0.052210648148148145
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "slide",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe shows a teacher speaking while holding a remote, with a slide visible in the background and a laptop on the desk, indicating a lecture-style teaching approach.",
+    "confidence": 0.9,
+    "frame_number": 53222,
+    "timestamp": 1775.8407333333334,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_53222.jpg",
+    "frame_score": 141.0965625,
+    "content_score": 0.03321180555555556
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "while loops",
+      "input",
+      "print output"
+    ],
+    "theory_score": 0.3,
+    "hands_on_score": 0.7,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows a while loop example with input and print statements in a programming context.",
+    "confidence": 0.8,
+    "frame_number": 53820,
+    "timestamp": 1795.794,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_53820.jpg",
+    "frame_score": 143.36887731481482,
+    "content_score": 0.042337962962962966
+  },
+  {
+    "frame_type": "code",
+    "teaching_activity": "live_coding",
+    "visual_elements": [
+      "code",
+      "terminal"
+    ],
+    "topics_observed": [
+      "Python loops",
+      "type conversion",
+      "input validation"
+    ],
+    "theory_score": 0.1,
+    "hands_on_score": 0.9,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code in an IDE with terminal output demonstrating type conversion errors.",
+    "confidence": 0.9,
+    "frame_number": 55016,
+    "timestamp": 1835.7005333333334,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_55016.jpg",
+    "frame_score": 70.84913773148148,
+    "content_score": 0.11729166666666667
+  },
+  {
+    "frame_type": "code",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "code",
+      "terminal"
+    ],
+    "topics_observed": [
+      "Python loops",
+      "input/output",
+      "string manipulation",
+      "while loops",
+      "Lost Forest game"
+    ],
+    "theory_score": 0.1,
+    "hands_on_score": 0.9,
+    "exercise_score": 0.3,
+    "project_score": 0.1,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code in an IDE with terminal output demonstrating a while loop and string manipulation example.",
+    "confidence": 0.9,
+    "frame_number": 55315,
+    "timestamp": 1845.6771666666666,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_55315.jpg",
+    "frame_score": 7.911556712962963,
+    "content_score": 0.11611689814814814
+  },
+  {
+    "frame_type": "code",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "code",
+      "software_interface"
+    ],
+    "topics_observed": [
+      "Python loops",
+      "while loops",
+      "input/output",
+      "Lost Forest game"
+    ],
+    "theory_score": 0.1,
+    "hands_on_score": 0.9,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code in an IDE with a game example.",
+    "confidence": 0.9,
+    "frame_number": 55614,
+    "timestamp": 1855.6538,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_55614.jpg",
+    "frame_score": 6.39734375,
+    "content_score": 0.11894675925925927
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "slide",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction because it shows a teacher speaking in front of a presentation slide with a laptop and software interface visible.",
+    "confidence": 0.9,
+    "frame_number": 56511,
+    "timestamp": 1885.5837000000001,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_56511.jpg",
+    "frame_score": 158.27840277777779,
+    "content_score": 0.03319444444444444
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "control flow",
+      "while loops",
+      "for loops",
+      "iterate through numbers",
+      "sequence"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.3,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide explaining control flow concepts with code examples.",
+    "confidence": 0.9,
+    "frame_number": 56810,
+    "timestamp": 1895.5603333333333,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_56810.jpg",
+    "frame_score": 147.4655439814815,
+    "content_score": 0.03515625
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with a laptop visible, indicating a lecture format.",
+    "confidence": 0.8,
+    "frame_number": 57408,
+    "timestamp": 1915.5136,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_57408.jpg",
+    "frame_score": 148.23292824074073,
+    "content_score": 0.03319444444444444
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "control flow",
+      "while loops",
+      "for loops",
+      "sequence iteration",
+      "variable assignment",
+      "loop control"
+    ],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide explaining control flow concepts with a code example for while loops.",
+    "confidence": 0.9,
+    "frame_number": 57707,
+    "timestamp": 1925.4902333333334,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_57707.jpg",
+    "frame_score": 148.17487847222222,
+    "content_score": 0.03742476851851852
+  },
+  {
+    "frame_type": "code",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "code",
+      "software_interface"
+    ],
+    "topics_observed": [
+      "Python loops",
+      "while loops",
+      "input/output",
+      "terminal output",
+      "Lost Forest game"
+    ],
+    "theory_score": 0.2,
+    "hands_on_score": 0.8,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code in an IDE with terminal output demonstrating a 'Lost Forest' game example.",
+    "confidence": 0.8,
+    "frame_number": 58903,
+    "timestamp": 1965.3967666666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_58903.jpg",
+    "frame_score": 71.67630208333334,
+    "content_score": 0.10605324074074074
+  },
+  {
+    "frame_type": "code",
+    "teaching_activity": "live_coding",
+    "visual_elements": [
+      "code",
+      "software_interface"
+    ],
+    "topics_observed": [
+      "Python loops",
+      "while loops",
+      "print output",
+      "input function",
+      "string formatting"
+    ],
+    "theory_score": 0.2,
+    "hands_on_score": 0.9,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code in an IDE with visible code snippets and terminal output.",
+    "confidence": 0.9,
+    "frame_number": 59202,
+    "timestamp": 1975.3734,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_59202.jpg",
+    "frame_score": 5.316388888888889,
+    "content_score": 0.10803240740740741
+  },
+  {
+    "frame_type": "code",
+    "teaching_activity": "live_coding",
+    "visual_elements": [
+      "code",
+      "terminal"
+    ],
+    "topics_observed": [
+      "Python",
+      "file operations",
+      "error handling",
+      "input/output"
+    ],
+    "theory_score": 0.1,
+    "hands_on_score": 0.9,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code in an IDE with terminal output demonstrating file operations and error handling.",
+    "confidence": 0.9,
+    "frame_number": 59501,
+    "timestamp": 1985.3500333333334,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_59501.jpg",
+    "frame_score": 5.309369212962963,
+    "content_score": 0.11237847222222222
+  },
+  {
+    "frame_type": "code",
+    "teaching_activity": "live_coding",
+    "visual_elements": [
+      "code",
+      "software_interface"
+    ],
+    "topics_observed": [
+      "Python loops",
+      "input/output handling",
+      "file operations"
+    ],
+    "theory_score": 0.0,
+    "hands_on_score": 0.9,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code in an IDE with terminal output and file operations.",
+    "confidence": 0.9,
+    "frame_number": 59800,
+    "timestamp": 1995.3266666666666,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_59800.jpg",
+    "frame_score": 4.4389872685185185,
+    "content_score": 0.10972800925925925
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "slide",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a slide with a laptop and software interface visible.",
+    "confidence": 0.9,
+    "frame_number": 60099,
+    "timestamp": 2005.3033,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_60099.jpg",
+    "frame_score": 163.81512731481482,
+    "content_score": 0.032893518518518516
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "control flow",
+      "while loops",
+      "for loops",
+      "iterating through numbers",
+      "sequence"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.3,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide explaining control flow concepts with a code example for while loops.",
+    "confidence": 0.9,
+    "frame_number": 60398,
+    "timestamp": 2015.2799333333335,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_60398.jpg",
+    "frame_score": 148.6459722222222,
+    "content_score": 0.03722222222222222
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "slide",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction because it shows a teacher speaking in front of a slide and a laptop, indicating a lecture format.",
+    "confidence": 0.8,
+    "frame_number": 61893,
+    "timestamp": 2065.1631,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_61893.jpg",
+    "frame_score": 147.68472222222223,
+    "content_score": 0.03601851851851852
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of teacher-led explanation with a whiteboard and software interface visible, indicating a lecture-style teaching approach.",
+    "confidence": 0.8,
+    "frame_number": 62192,
+    "timestamp": 2075.1397333333334,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_62192.jpg",
+    "frame_score": 9.208686342592593,
+    "content_score": 0.03401041666666667
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "slide",
+      "code",
+      "whiteboard"
+    ],
+    "topics_observed": [
+      "control flow",
+      "while loops",
+      "for loops",
+      "iterate through numbers",
+      "sequence"
+    ],
+    "theory_score": 0.6,
+    "hands_on_score": 0.8,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding examples with Python code for while and for loops, showing the comparison between the two loop structures.",
+    "confidence": 0.9,
+    "frame_number": 62491,
+    "timestamp": 2085.1163666666666,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_62491.jpg",
+    "frame_score": 147.24436921296297,
+    "content_score": 0.051805555555555556
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "control flow",
+      "for loops",
+      "variables",
+      "loop iteration"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide explaining for loops in control flow, with visible code examples and step-by-step descriptions.",
+    "confidence": 0.9,
+    "frame_number": 63388,
+    "timestamp": 2115.0462666666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_63388.jpg",
+    "frame_score": 10.897430555555555,
+    "content_score": 0.05178240740740741
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with a laptop visible on the desk.",
+    "confidence": 0.8,
+    "frame_number": 64883,
+    "timestamp": 2164.9294333333332,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_64883.jpg",
+    "frame_score": 141.82277199074073,
+    "content_score": 0.035619212962962964
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "slide"
+    ],
+    "topics_observed": [
+      "theory"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-heavy instruction as the teacher is speaking while standing near a whiteboard and a slide.",
+    "confidence": 0.9,
+    "frame_number": 65780,
+    "timestamp": 2194.8593333333333,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_65780.jpg",
+    "frame_score": 35.04543981481481,
+    "content_score": 0.03002314814814815
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "range function",
+      "loop syntax",
+      "Python programming"
+    ],
+    "theory_score": 0.3,
+    "hands_on_score": 0.7,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code examples for the range function with loop syntax and variable incrementation.",
+    "confidence": 0.9,
+    "frame_number": 66079,
+    "timestamp": 2204.8359666666665,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_66079.jpg",
+    "frame_score": 148.71017939814814,
+    "content_score": 0.04217013888888889
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of teacher-led explanation with a whiteboard and software interface visible, indicating a lecture-style teaching approach.",
+    "confidence": 0.9,
+    "frame_number": 67275,
+    "timestamp": 2244.7425,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_67275.jpg",
+    "frame_score": 148.61340277777776,
+    "content_score": 0.03414930555555556
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "Python range function",
+      "loop syntax",
+      "default values",
+      "for loop examples"
+    ],
+    "theory_score": 0.3,
+    "hands_on_score": 0.7,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code examples for the range function with explanations and sample code.",
+    "confidence": 0.9,
+    "frame_number": 67873,
+    "timestamp": 2264.6957666666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_67873.jpg",
+    "frame_score": 147.82972222222222,
+    "content_score": 0.04776620370370371
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with a laptop visible on the desk.",
+    "confidence": 0.8,
+    "frame_number": 68471,
+    "timestamp": 2284.6490333333336,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_68471.jpg",
+    "frame_score": 144.4055150462963,
+    "content_score": 0.035653935185185184
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "slide",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a slide, with no visible hands-on activity or student practice.",
+    "confidence": 0.9,
+    "frame_number": 68770,
+    "timestamp": 2294.625666666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_68770.jpg",
+    "frame_score": 26.30450810185185,
+    "content_score": 0.034519675925925926
+  },
+  {
+    "frame_type": "whiteboard",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "whiteboard",
+      "code"
+    ],
+    "topics_observed": [
+      "Python range function",
+      "loop variables",
+      "step parameter",
+      "sum calculation"
+    ],
+    "theory_score": 0.3,
+    "hands_on_score": 0.8,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code examples with handwritten annotations explaining the range function's parameters and loop behavior.",
+    "confidence": 0.9,
+    "frame_number": 69368,
+    "timestamp": 2314.578933333333,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_69368.jpg",
+    "frame_score": 147.40844328703704,
+    "content_score": 0.05623842592592593
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is explaining concepts while standing near a whiteboard.",
+    "confidence": 0.9,
+    "frame_number": 70564,
+    "timestamp": 2354.4854666666665,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_70564.jpg",
+    "frame_score": 146.46726273148147,
+    "content_score": 0.03007523148148148
+  },
+  {
+    "frame_type": "code",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "code",
+      "software_interface"
+    ],
+    "topics_observed": [
+      "Python loops",
+      "file operations",
+      "I/O errors"
+    ],
+    "theory_score": 0.1,
+    "hands_on_score": 0.9,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code in an IDE with a terminal output demonstrating a file I/O error.",
+    "confidence": 0.9,
+    "frame_number": 71461,
+    "timestamp": 2384.4153666666666,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_71461.jpg",
+    "frame_score": 162.37510416666666,
+    "content_score": 0.09706597222222223
+  },
+  {
+    "frame_type": "code",
+    "teaching_activity": "live_coding",
+    "visual_elements": [
+      "code",
+      "software_interface"
+    ],
+    "topics_observed": [
+      "Python loops",
+      "variable assignment",
+      "file operations",
+      "error handling"
+    ],
+    "theory_score": 0.1,
+    "hands_on_score": 0.9,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows Python code in an IDE with a terminal output demonstrating a file operation error.",
+    "confidence": 0.9,
+    "frame_number": 71760,
+    "timestamp": 2394.392,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_71760.jpg",
+    "frame_score": 3.063582175925926,
+    "content_score": 0.09445023148148148
+  },
+  {
+    "frame_type": "mixed",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "teacher",
+      "code",
+      "software_interface"
+    ],
+    "topics_observed": [
+      "coding"
+    ],
+    "theory_score": 0.2,
+    "hands_on_score": 0.8,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding because it shows a teacher actively working on a laptop with visible code and software interface.",
+    "confidence": 0.8,
+    "frame_number": 72059,
+    "timestamp": 2404.3686333333335,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_72059.jpg",
+    "frame_score": 163.52548611111112,
+    "content_score": 0.03357060185185185
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "teacher_talking",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.2,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction because it shows a teacher speaking in front of a whiteboard with a laptop and software interface visible.",
+    "confidence": 0.8,
+    "frame_number": 72358,
+    "timestamp": 2414.3452666666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_72358.jpg",
+    "frame_score": 18.07245949074074,
+    "content_score": 0.03642939814814815
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "worked_example",
+    "visual_elements": [
+      "slide",
+      "code",
+      "whiteboard"
+    ],
+    "topics_observed": [
+      "Python range function",
+      "loop syntax",
+      "variable initialization",
+      "step parameter in range"
+    ],
+    "theory_score": 0.5,
+    "hands_on_score": 0.7,
+    "exercise_score": 0.3,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of hands-on coding through visible Python code examples demonstrating the range function with different parameters, while also showing a slide explaining the concept.",
+    "confidence": 0.8,
+    "frame_number": 72657,
+    "timestamp": 2424.3219,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_72657.jpg",
+    "frame_score": 148.7028298611111,
+    "content_score": 0.04413773148148148
+  },
+  {
+    "frame_type": "unknown",
+    "teaching_activity": "unknown",
+    "visual_elements": [
+      "unknown"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.0,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "visible_text_summary": null,
+    "evidence_summary": "Failed to parse model response.",
+    "confidence": 0.0,
+    "error": "Failed to parse JSON",
+    "raw_response": "",
+    "frame_number": 73853,
+    "timestamp": 2464.228433333333,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_73853.jpg",
+    "frame_score": 145.55134837962962,
+    "content_score": 0.03210648148148148
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "code"
+    ],
+    "topics_observed": [
+      "break statement",
+      "loop control",
+      "code block execution"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction through a lecture slide explaining the break statement in loops, with code examples illustrating its behavior.",
+    "confidence": 0.9,
+    "frame_number": 74152,
+    "timestamp": 2474.205066666667,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_74152.jpg",
+    "frame_score": 145.28141782407408,
+    "content_score": 0.04304398148148148
+  },
+  {
+    "frame_type": "teacher_talking",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "teacher",
+      "whiteboard",
+      "software_interface"
+    ],
+    "topics_observed": [],
+    "theory_score": 0.8,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible student practice or code execution.",
+    "confidence": 0.8,
+    "frame_number": 75946,
+    "timestamp": 2534.0648666666666,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_75946.jpg",
+    "frame_score": 140.81381944444445,
+    "content_score": 0.03329282407407407
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "teacher"
+    ],
+    "topics_observed": [
+      "for loops",
+      "while loops",
+      "loop iterations",
+      "break statement",
+      "counter initialization"
+    ],
+    "theory_score": 0.9,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory-heavy explanation through a lecture slide comparing for and while loops with bullet points on their characteristics.",
+    "confidence": 0.9,
+    "frame_number": 76544,
+    "timestamp": 2554.0181333333335,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_76544.jpg",
+    "frame_score": 139.14817708333334,
+    "content_score": 0.06021412037037037
+  },
+  {
+    "frame_type": "slide",
+    "teaching_activity": "theory_explanation",
+    "visual_elements": [
+      "slide",
+      "subtitle"
+    ],
+    "topics_observed": [
+      "copyright information",
+      "Creative Commons license",
+      "The Legend of Zelda"
+    ],
+    "theory_score": 0.6,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.0,
+    "project_score": 0.0,
+    "evidence_summary": "This keyframe provides evidence of theory explanation through copyright and licensing information displayed on a slide.",
+    "confidence": 0.8,
+    "frame_number": 78039,
+    "timestamp": 2603.9013,
+    "frame_path": "D:\\INF5114\\video_analysis_system\\output\\frame1\\frame_78039.jpg",
+    "frame_score": 149.6233275462963,
+    "content_score": 0.041672453703703705
+  }
+]

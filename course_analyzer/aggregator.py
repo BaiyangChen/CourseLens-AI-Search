@@ -59,13 +59,18 @@ class EvidenceAggregator:
         # Filtering them prevents one bad frame from influencing the course profile.
         self.min_confidence = min_confidence
 
-    def aggregate(self, frame_analyses: List[Dict[str, Any]]) -> CourseProfile:
+    def aggregate(
+        self,
+        frame_analyses: List[Dict[str, Any]],
+        title: str = "Untitled Course",
+    ) -> CourseProfile:
         """Build a CourseProfile from a list of frame analysis dictionaries."""
 
         useful_frames = self._filter_useful_frames(frame_analyses)
 
         if not useful_frames:
             return CourseProfile(
+                title=title,
                 total_frames=len(frame_analyses),
                 useful_frames=0,
                 theory_score=0.0,
@@ -126,6 +131,7 @@ class EvidenceAggregator:
         )
 
         return CourseProfile(
+            title=title,
             total_frames=len(frame_analyses),
             useful_frames=len(useful_frames),
             theory_score=theory_score,
@@ -413,6 +419,7 @@ def build_course_profile(
     input_path: Path,
     output_path: Optional[Path] = None,
     min_confidence: float = 0.4,
+    title: str = "Untitled Course",
 ) -> CourseProfile:
     """
     Convenience function for scripts or CLI usage.
@@ -426,7 +433,7 @@ def build_course_profile(
 
     frame_analyses = load_frame_analyses(input_path)
     aggregator = EvidenceAggregator(min_confidence=min_confidence)
-    profile = aggregator.aggregate(frame_analyses)
+    profile = aggregator.aggregate(frame_analyses, title=title)
 
     if output_path is not None:
         save_course_profile(profile, output_path)
