@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Generated outputs
+output/frames/
+output/frames2/
+output/**/*.jpg
+
+# Large local video files
+data/*.mp4
+
+# Editor
+.vscode/

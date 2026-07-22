@@ -1,0 +1,1225 @@
+[
+  {
+    "title": "Branching Iteration",
+    "total_frames": 57,
+    "useful_frames": 56,
+    "theory_score": 0.727,
+    "hands_on_score": 0.156,
+    "exercise_score": 0.01,
+    "project_score": 0.0,
+    "dominant_learning_style": "mostly_theory",
+    "frame_type_distribution": {
+      "teacher_talking": 47,
+      "code": 4,
+      "slide": 3,
+      "whiteboard": 1,
+      "mixed": 1
+    },
+    "teaching_activity_distribution": {
+      "theory_explanation": 31,
+      "teacher_talking": 18,
+      "worked_example": 6,
+      "live_coding": 1
+    },
+    "top_topics": [
+      {
+        "topic": "string concatenation",
+        "count": 4
+      },
+      {
+        "topic": "python loops",
+        "count": 3
+      },
+      {
+        "topic": "variable assignment",
+        "count": 3
+      },
+      {
+        "topic": "print statements",
+        "count": 2
+      },
+      {
+        "topic": "input function",
+        "count": 2
+      },
+      {
+        "topic": "user input handling",
+        "count": 2
+      },
+      {
+        "topic": "python range function",
+        "count": 2
+      },
+      {
+        "topic": "loop syntax",
+        "count": 2
+      },
+      {
+        "topic": "strings",
+        "count": 1
+      },
+      {
+        "topic": "concatenation",
+        "count": 1
+      }
+    ],
+    "best_for_students_who_prefer": [
+      "students who prefer concept explanations and slides",
+      "students who are comfortable with teacher-led lectures"
+    ],
+    "less_suitable_for": [
+      "students looking for frequent hands-on demonstrations",
+      "students looking for many exercises, quizzes, or assignments",
+      "students looking for a full project-based tutorial"
+    ],
+    "summary": "The course appears to be mostly_theory. Scores: theory=0.73, hands_on=0.16, exercise=0.01, project=0.00. Common visible topics include: string concatenation, python loops, variable assignment, print statements, input function.",
+    "evidence": [
+      "Frame 5597: This keyframe provides evidence of theory-heavy explanation through a lecture slide on string operations in Python, with visible code examples for concatenation.",
+      "Frame 7656: This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard with no visible student practice or code execution.",
+      "Frame 9512: This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a slide and whiteboard, with no visible hands-on activities or exercises.",
+      "Frame 9686: This keyframe provides evidence of theory-based instruction as the teacher is speaking while gesturing towards a whiteboard, with no visible student practice or code execution.",
+      "Frame 11658: This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a whiteboard and a slide, with no visible hands-on activities or student practice.",
+      "Frame 16269: This keyframe provides evidence of hands-on coding because it shows Python code in an IDE with visible examples of string concatenation and print statements.",
+      "Frame 21953: This keyframe shows a worked example of Python code in an IDE with terminal output, demonstrating input handling and string operations.",
+      "Frame 22156: This keyframe provides evidence of hands-on coding because it shows Python code examples for user input handling and type conversion in an IDE."
+    ]
+  },
+  {
+    "title": "Chinese History",
+    "total_frames": 84,
+    "useful_frames": 82,
+    "theory_score": 0.815,
+    "hands_on_score": 0.0,
+    "exercise_score": 0.016,
+    "project_score": 0.002,
+    "dominant_learning_style": "mostly_theory",
+    "frame_type_distribution": {
+      "slide": 37,
+      "teacher_talking": 36,
+      "mixed": 6,
+      "diagram": 3
+    },
+    "teaching_activity_distribution": {
+      "theory_explanation": 80,
+      "teacher_talking": 1,
+      "exercise_or_quiz": 1
+    },
+    "top_topics": [
+      {
+        "topic": "1680",
+        "count": 3
+      },
+      {
+        "topic": "empire of the great qing",
+        "count": 3
+      },
+      {
+        "topic": "qing imperial signage",
+        "count": 3
+      },
+      {
+        "topic": "the incorporation of xinjiang into",
+        "count": 3
+      },
+      {
+        "topic": "historical geography",
+        "count": 2
+      },
+      {
+        "topic": "yongzheng",
+        "count": 2
+      },
+      {
+        "topic": "incorporation of xinjiang into the empire (1759)",
+        "count": 2
+      },
+      {
+        "topic": "copyright information",
+        "count": 2
+      },
+      {
+        "topic": "image credits",
+        "count": 2
+      },
+      {
+        "topic": "sources of content used with permission",
+        "count": 2
+      }
+    ],
+    "best_for_students_who_prefer": [
+      "students who prefer concept explanations and slides"
+    ],
+    "less_suitable_for": [
+      "students looking for frequent hands-on demonstrations",
+      "students looking for many exercises, quizzes, or assignments",
+      "students looking for a full project-based tutorial"
+    ],
+    "summary": "The course appears to be mostly_theory. Scores: theory=0.81, hands_on=0.00, exercise=0.02, project=0.00. Common visible topics include: 1680, empire of the great qing, qing imperial signage, the incorporation of xinjiang into, historical geography.",
+    "evidence": [
+      "Frame 600: This keyframe provides evidence of theory-based instruction through a historical map of Taiwan showing administrative divisions and historical periods.",
+      "Frame 5700: This keyframe provides evidence of theory-based instruction as it shows a teacher speaking in front of a presentation slide.",
+      "Frame 6300: This keyframe provides evidence of theory-based instruction because it shows a teacher speaking in front of a slide presentation.",
+      "Frame 6900: This keyframe provides evidence of theory-based instruction through a historical slide with maps and text explaining Taiwan's entry into the global political scene and key historical events.",
+      "Frame 12900: This keyframe provides evidence of theory-based instruction because it shows a teacher explaining a historical map of Taiwan from 1680.",
+      "Frame 14400: This keyframe provides evidence of theory-based instruction through historical maps and a teacher's image, illustrating the Taiwan Question and Shi Lang's role.",
+      "Frame 26400: This keyframe provides evidence of theory-based instruction as the teacher is speaking while gesturing toward a whiteboard.",
+      "Frame 28200: This keyframe provides evidence of theory-based instruction as the teacher is speaking in front of a blackboard with no visible instructional content."
+    ]
+  },
+  {
+    "title": "Hands-on Python Coding",
+    "total_frames": 72,
+    "useful_frames": 70,
+    "theory_score": 0.28,
+    "hands_on_score": 0.86,
+    "exercise_score": 0.22,
+    "project_score": 0.12,
+    "dominant_learning_style": "mostly_hands_on",
+    "frame_type_distribution": {
+      "code": 38,
+      "terminal": 14,
+      "software_interface": 10,
+      "slide": 5,
+      "teacher_talking": 3
+    },
+    "teaching_activity_distribution": {
+      "live_coding": 42,
+      "worked_example": 20,
+      "theory_explanation": 5,
+      "teacher_talking": 3
+    },
+    "top_topics": [
+      {
+        "topic": "python functions",
+        "count": 8
+      },
+      {
+        "topic": "debugging",
+        "count": 6
+      },
+      {
+        "topic": "terminal output",
+        "count": 5
+      },
+      {
+        "topic": "for loops",
+        "count": 4
+      },
+      {
+        "topic": "lists",
+        "count": 4
+      },
+      {
+        "topic": "file input output",
+        "count": 3
+      },
+      {
+        "topic": "variables",
+        "count": 3
+      },
+      {
+        "topic": "conditionals",
+        "count": 2
+      },
+      {
+        "topic": "error messages",
+        "count": 2
+      },
+      {
+        "topic": "code execution",
+        "count": 2
+      }
+    ],
+    "best_for_students_who_prefer": [
+      "students who prefer hands-on demonstrations",
+      "students who learn by watching code run"
+    ],
+    "less_suitable_for": [
+      "students looking for a mostly theory-based lecture",
+      "students looking for a full project-based tutorial"
+    ],
+    "summary": "The course appears to be mostly_hands_on. Scores: theory=0.28, hands_on=0.86, exercise=0.22, project=0.12. Common visible topics include: python functions, debugging, terminal output, for loops, lists.",
+    "evidence": [
+      "Frame 1200: This keyframe shows live Python coding in an IDE.",
+      "Frame 2100: This keyframe shows terminal output after running a script.",
+      "Frame 3300: This keyframe shows debugging with an error message.",
+      "Frame 4200: This keyframe shows a worked example using functions.",
+      "Frame 5100: This keyframe shows code execution and printed output.",
+      "Frame 6300: This keyframe shows editing list-processing code.",
+      "Frame 7200: This keyframe shows a hands-on coding workflow.",
+      "Frame 8400: This keyframe shows a small example rather than a full project."
+    ]
+  },
+  {
+    "title": "Exercise-Based Python Learning",
+    "total_frames": 66,
+    "useful_frames": 64,
+    "theory_score": 0.34,
+    "hands_on_score": 0.42,
+    "exercise_score": 0.82,
+    "project_score": 0.08,
+    "dominant_learning_style": "exercise_based",
+    "frame_type_distribution": {
+      "exercise": 28,
+      "code": 16,
+      "slide": 12,
+      "teacher_talking": 6,
+      "terminal": 2
+    },
+    "teaching_activity_distribution": {
+      "exercise_or_quiz": 34,
+      "worked_example": 16,
+      "theory_explanation": 10,
+      "live_coding": 4
+    },
+    "top_topics": [
+      {
+        "topic": "python practice problems",
+        "count": 9
+      },
+      {
+        "topic": "loops exercises",
+        "count": 7
+      },
+      {
+        "topic": "multiple choice questions",
+        "count": 5
+      },
+      {
+        "topic": "short answer",
+        "count": 4
+      },
+      {
+        "topic": "coding exercise",
+        "count": 4
+      },
+      {
+        "topic": "variables",
+        "count": 3
+      },
+      {
+        "topic": "conditionals",
+        "count": 3
+      },
+      {
+        "topic": "quiz review",
+        "count": 2
+      },
+      {
+        "topic": "loop tracing",
+        "count": 2
+      },
+      {
+        "topic": "practice solution",
+        "count": 2
+      }
+    ],
+    "best_for_students_who_prefer": [
+      "students who want visible exercises or practice tasks",
+      "students who prefer learning through quizzes and worked solutions"
+    ],
+    "less_suitable_for": [
+      "students looking for a full project-based tutorial",
+      "students who prefer long teacher-led lectures without practice"
+    ],
+    "summary": "The course appears to be exercise_based. Scores: theory=0.34, hands_on=0.42, exercise=0.82, project=0.08. Common visible topics include: python practice problems, loops exercises, multiple choice questions, short answer, coding exercise.",
+    "evidence": [
+      "Frame 900: This keyframe shows a Python practice question.",
+      "Frame 1800: This keyframe shows a multiple-choice quiz slide.",
+      "Frame 2700: This keyframe shows a loop tracing exercise.",
+      "Frame 3600: This keyframe shows a coding exercise prompt.",
+      "Frame 4500: This keyframe shows a worked solution.",
+      "Frame 5400: This keyframe shows a short-answer practice task.",
+      "Frame 6300: This keyframe shows quiz review content.",
+      "Frame 7200: This keyframe shows practice feedback."
+    ]
+  },
+  {
+    "title": "Web App Project Tutorial",
+    "total_frames": 95,
+    "useful_frames": 92,
+    "theory_score": 0.22,
+    "hands_on_score": 0.78,
+    "exercise_score": 0.38,
+    "project_score": 0.91,
+    "dominant_learning_style": "project_based",
+    "frame_type_distribution": {
+      "software_interface": 30,
+      "code": 26,
+      "terminal": 14,
+      "diagram": 8,
+      "slide": 7,
+      "teacher_talking": 7
+    },
+    "teaching_activity_distribution": {
+      "project_demo": 38,
+      "live_coding": 25,
+      "worked_example": 16,
+      "theory_explanation": 8,
+      "exercise_or_quiz": 5
+    },
+    "top_topics": [
+      {
+        "topic": "web app project",
+        "count": 10
+      },
+      {
+        "topic": "flask api",
+        "count": 8
+      },
+      {
+        "topic": "html css",
+        "count": 7
+      },
+      {
+        "topic": "javascript fetch",
+        "count": 6
+      },
+      {
+        "topic": "database",
+        "count": 5
+      },
+      {
+        "topic": "routing",
+        "count": 4
+      },
+      {
+        "topic": "forms",
+        "count": 4
+      },
+      {
+        "topic": "deployment",
+        "count": 3
+      },
+      {
+        "topic": "application architecture",
+        "count": 3
+      },
+      {
+        "topic": "debugging",
+        "count": 2
+      }
+    ],
+    "best_for_students_who_prefer": [
+      "students who prefer project-based learning",
+      "students who prefer hands-on demonstrations",
+      "students who want to build an end-to-end application"
+    ],
+    "less_suitable_for": [
+      "students looking for a mostly theory-based lecture",
+      "students looking for many standalone quizzes"
+    ],
+    "summary": "The course appears to be project_based. Scores: theory=0.22, hands_on=0.78, exercise=0.38, project=0.91. Common visible topics include: web app project, flask api, html css, javascript fetch, database.",
+    "evidence": [
+      "Frame 1500: This keyframe shows the final web app interface.",
+      "Frame 2400: This keyframe shows backend API code.",
+      "Frame 3600: This keyframe shows HTML and CSS implementation.",
+      "Frame 4800: This keyframe shows JavaScript fetch calls.",
+      "Frame 6000: This keyframe shows database integration.",
+      "Frame 7200: This keyframe shows a project architecture diagram.",
+      "Frame 8400: This keyframe shows debugging the application.",
+      "Frame 9600: This keyframe shows deployment steps."
+    ]
+  },
+  {
+    "title": "Data Structures and algorithms",
+    "total_frames": 78,
+    "useful_frames": 75,
+    "theory_score": 0.58,
+    "hands_on_score": 0.55,
+    "exercise_score": 0.35,
+    "project_score": 0.24,
+    "dominant_learning_style": "theory_plus_hands_on_examples",
+    "frame_type_distribution": {
+      "slide": 21,
+      "code": 20,
+      "teacher_talking": 17,
+      "terminal": 9,
+      "exercise": 5,
+      "diagram": 3
+    },
+    "teaching_activity_distribution": {
+      "theory_explanation": 28,
+      "worked_example": 22,
+      "live_coding": 15,
+      "exercise_or_quiz": 7,
+      "teacher_talking": 3
+    },
+    "top_topics": [
+      {
+        "topic": "data structures",
+        "count": 7
+      },
+      {
+        "topic": "algorithms",
+        "count": 8
+      },
+      {
+        "topic": "lists",
+        "count": 6
+      },
+      {
+        "topic": "dictionaries",
+        "count": 6
+      },
+      {
+        "topic": "iteration",
+        "count": 5
+      },
+      {
+        "topic": "search algorithms",
+        "count": 4
+      },
+      {
+        "topic": "complexity",
+        "count": 3
+      },
+      {
+        "topic": "worked examples",
+        "count": 3
+      },
+      {
+        "topic": "practice questions",
+        "count": 2
+      },
+      {
+        "topic": "terminal output",
+        "count": 2
+      },
+      {
+        "topic": "debugging",
+        "count": 2
+      }
+    ],
+    "best_for_students_who_prefer": [
+      "students who prefer concept explanations with code examples",
+      "students who want a balanced tutorial"
+    ],
+    "less_suitable_for": [
+      "students looking for a full project-based tutorial"
+    ],
+    "summary": "The course appears to be theory_plus_hands_on_examples. Scores: theory=0.58, hands_on=0.55, exercise=0.35, project=0.24. Common visible topics include: data structures, lists, dictionaries, iteration, search algorithms.",
+    "evidence": [
+      "Frame 1000: This keyframe shows a slide explaining lists.",
+      "Frame 1900: This keyframe shows a live coding example.",
+      "Frame 2800: This keyframe shows terminal output from a worked example.",
+      "Frame 3700: This keyframe shows dictionary operations.",
+      "Frame 4600: This keyframe shows a diagram of data structure behavior.",
+      "Frame 5500: This keyframe shows a practice question.",
+      "Frame 6400: This keyframe shows complexity explanation.",
+      "Frame 7300: This keyframe shows code debugging."
+    ]
+  },
+  {
+    "title": "Object-Oriented Programming in C++",
+    "total_frames": 82,
+    "useful_frames": 79,
+    "theory_score": 0.54,
+    "hands_on_score": 0.68,
+    "exercise_score": 0.38,
+    "project_score": 0.32,
+    "dominant_learning_style": "theory_plus_hands_on_examples",
+    "frame_type_distribution": {
+      "slide": 18,
+      "code": 27,
+      "teacher_talking": 14,
+      "terminal": 11,
+      "exercise": 6,
+      "diagram": 3
+    },
+    "teaching_activity_distribution": {
+      "theory_explanation": 23,
+      "worked_example": 24,
+      "live_coding": 19,
+      "exercise_or_quiz": 9,
+      "teacher_talking": 4
+    },
+    "top_topics": [
+      {
+        "topic": "classes and objects",
+        "count": 8
+      },
+      {
+        "topic": "Object-Oriented Programming",
+        "count": 2
+      },
+      {
+        "topic": "C++",
+        "count": 6
+      },
+      {
+        "topic": "constructors",
+        "count": 7
+      },
+      {
+        "topic": "inheritance",
+        "count": 6
+      },
+      {
+        "topic": "polymorphism",
+        "count": 5
+      },
+      {
+        "topic": "encapsulation",
+        "count": 5
+      },
+      {
+        "topic": "virtual functions",
+        "count": 4
+      },
+      {
+        "topic": "memory management",
+        "count": 4
+      },
+      {
+        "topic": "code debugging",
+        "count": 3
+      },
+      {
+        "topic": "terminal output",
+        "count": 3
+      },
+      {
+        "topic": "practice exercises",
+        "count": 2
+      }
+    ],
+    "best_for_students_who_prefer": [
+      "students who prefer object-oriented concepts with live coding examples",
+      "students who want to understand C++ syntax through demonstrations"
+    ],
+    "less_suitable_for": [
+      "students looking for a complete large-scale C++ project"
+    ],
+    "summary": "The course appears to be theory_plus_hands_on_examples. Scores: theory=0.54, hands_on=0.68, exercise=0.38, project=0.32. Common visible topics include: classes and objects, constructors, inheritance, polymorphism, encapsulation.",
+    "evidence": [
+      "Frame 1050: This keyframe shows a slide explaining classes and objects.",
+      "Frame 1980: This keyframe shows a live coding example using constructors.",
+      "Frame 2910: This keyframe shows terminal output from a C++ program.",
+      "Frame 3840: This keyframe shows an inheritance hierarchy diagram.",
+      "Frame 4770: This keyframe shows code using virtual functions.",
+      "Frame 5700: This keyframe shows a debugging example involving pointers.",
+      "Frame 6630: This keyframe shows an exercise about polymorphism.",
+      "Frame 7560: This keyframe shows memory allocation and object destruction."
+    ]
+  },
+  {
+    "title": "AI and Machine Learning Fundamentals",
+    "total_frames": 90,
+    "useful_frames": 86,
+    "theory_score": 0.72,
+    "hands_on_score": 0.43,
+    "exercise_score": 0.29,
+    "project_score": 0.36,
+    "dominant_learning_style": "mostly_theory_with_demonstrations",
+    "frame_type_distribution": {
+      "slide": 34,
+      "code": 15,
+      "teacher_talking": 18,
+      "terminal": 5,
+      "exercise": 4,
+      "diagram": 10
+    },
+    "teaching_activity_distribution": {
+      "theory_explanation": 39,
+      "worked_example": 18,
+      "live_coding": 10,
+      "exercise_or_quiz": 6,
+      "teacher_talking": 13
+    },
+    "top_topics": [
+      {
+        "topic": "machine learning",
+        "count": 9
+      },
+      {
+        "topic": "Artificial Intelligence",
+        "count": 7
+      },
+      {
+        "topic": "AI",
+        "count": 8
+      },
+      {
+        "topic": "supervised learning",
+        "count": 7
+      },
+      {
+        "topic": "neural networks",
+        "count": 7
+      },
+      {
+        "topic": "training data",
+        "count": 6
+      },
+      {
+        "topic": "classification",
+        "count": 5
+      },
+      {
+        "topic": "model evaluation",
+        "count": 5
+      },
+      {
+        "topic": "overfitting",
+        "count": 4
+      },
+      {
+        "topic": "loss functions",
+        "count": 3
+      },
+      {
+        "topic": "Python demonstration",
+        "count": 3
+      },
+      {
+        "topic": "ethical considerations",
+        "count": 2
+      }
+    ],
+    "best_for_students_who_prefer": [
+      "students who prefer conceptual explanations supported by diagrams",
+      "students who want an introduction to machine learning before coding"
+    ],
+    "less_suitable_for": [
+      "students looking for an intensive machine learning programming course"
+    ],
+    "summary": "The course appears to be mostly_theory_with_demonstrations. Scores: theory=0.72, hands_on=0.43, exercise=0.29, project=0.36. Common visible topics include: machine learning, supervised learning, neural networks, training data, classification.",
+    "evidence": [
+      "Frame 1200: This keyframe shows a diagram explaining a neural network.",
+      "Frame 2250: This keyframe shows a slide comparing supervised and unsupervised learning.",
+      "Frame 3300: This keyframe shows a Python classification example.",
+      "Frame 4350: This keyframe shows a graph of training and validation loss.",
+      "Frame 5400: This keyframe explains overfitting with a visual example.",
+      "Frame 6450: This keyframe shows a model evaluation table.",
+      "Frame 7500: This keyframe shows a short exercise about classification.",
+      "Frame 8550: This keyframe discusses ethical risks in artificial intelligence."
+    ]
+  },
+  {
+    "title": "French as second language immersion",
+    "total_frames": 74,
+    "useful_frames": 71,
+    "theory_score": 0.31,
+    "hands_on_score": 0.62,
+    "exercise_score": 0.71,
+    "project_score": 0.08,
+    "dominant_learning_style": "exercise_based_language_practice",
+    "frame_type_distribution": {
+      "slide": 16,
+      "code": 0,
+      "teacher_talking": 24,
+      "terminal": 0,
+      "exercise": 25,
+      "diagram": 6
+    },
+    "teaching_activity_distribution": {
+      "theory_explanation": 14,
+      "worked_example": 20,
+      "live_coding": 0,
+      "exercise_or_quiz": 30,
+      "teacher_talking": 7
+    },
+    "top_topics": [
+      {
+        "topic": "daily conversation",
+        "count": 9
+      },
+      {
+        "topic": "French pronunciation",
+        "count": 8
+      },
+      {
+        "topic": "introducing yourself",
+        "count": 7
+      },
+      {
+        "topic": "asking questions",
+        "count": 6
+      },
+      {
+        "topic": "restaurant vocabulary",
+        "count": 5
+      },
+      {
+        "topic": "verb conjugation",
+        "count": 5
+      },
+      {
+        "topic": "listening practice",
+        "count": 4
+      },
+      {
+        "topic": "role-playing",
+        "count": 4
+      },
+      {
+        "topic": "common expressions",
+        "count": 3
+      },
+      {
+        "topic": "pronunciation correction",
+        "count": 3
+      }
+    ],
+    "best_for_students_who_prefer": [
+      "students who prefer speaking practice and role-playing activities",
+      "students who want to improve everyday French communication"
+    ],
+    "less_suitable_for": [
+      "students looking for an advanced French literature course"
+    ],
+    "summary": "The course appears to be exercise_based_language_practice. Scores: theory=0.31, hands_on=0.62, exercise=0.71, project=0.08. Common visible topics include: daily conversation, French pronunciation, introducing yourself, asking questions, restaurant vocabulary.",
+    "evidence": [
+      "Frame 900: This keyframe shows a dialogue for introducing yourself in French.",
+      "Frame 1750: This keyframe shows pronunciation guidance for French vowel sounds.",
+      "Frame 2600: This keyframe shows a role-playing exercise in a restaurant.",
+      "Frame 3450: This keyframe shows students practicing question forms.",
+      "Frame 4300: This keyframe shows a listening comprehension activity.",
+      "Frame 5150: This keyframe explains the conjugation of common French verbs.",
+      "Frame 6000: This keyframe shows an exercise using common expressions.",
+      "Frame 6850: This keyframe shows pronunciation correction during a conversation."
+    ]
+  },
+  {
+    "title": "Universiyu Physics-Mechanics",
+    "total_frames": 88,
+    "useful_frames": 84,
+    "theory_score": 0.76,
+    "hands_on_score": 0.34,
+    "exercise_score": 0.57,
+    "project_score": 0.12,
+    "dominant_learning_style": "theory_plus_problem_solving",
+    "frame_type_distribution": {
+      "slide": 25,
+      "code": 2,
+      "teacher_talking": 19,
+      "terminal": 1,
+      "exercise": 20,
+      "diagram": 17
+    },
+    "teaching_activity_distribution": {
+      "theory_explanation": 35,
+      "worked_example": 25,
+      "live_coding": 1,
+      "exercise_or_quiz": 17,
+      "teacher_talking": 6
+    },
+    "top_topics": [
+      {
+        "topic": "Newton's laws",
+        "count": 9
+      },
+      {
+        "topic": "Physics",
+        "count": 3
+      },
+      {
+        "topic": "force diagrams",
+        "count": 8
+      },
+      {
+        "topic": "kinematics",
+        "count": 7
+      },
+      {
+        "topic": "acceleration",
+        "count": 6
+      },
+      {
+        "topic": "friction",
+        "count": 5
+      },
+      {
+        "topic": "momentum",
+        "count": 5
+      },
+      {
+        "topic": "energy conservation",
+        "count": 4
+      },
+      {
+        "topic": "problem solving",
+        "count": 4
+      },
+      {
+        "topic": "motion graphs",
+        "count": 3
+      },
+      {
+        "topic": "calculation examples",
+        "count": 3
+      }
+    ],
+    "best_for_students_who_prefer": [
+      "students who prefer theoretical explanations followed by calculation examples",
+      "students who want practice solving mechanics problems"
+    ],
+    "less_suitable_for": [
+      "students looking for laboratory-based physics experiments"
+    ],
+    "summary": "The course appears to be theory_plus_problem_solving. Scores: theory=0.76, hands_on=0.34, exercise=0.57, project=0.12. Common visible topics include: Newton's laws, force diagrams, kinematics, acceleration, friction.",
+    "evidence": [
+      "Frame 1100: This keyframe shows a diagram explaining Newton's second law.",
+      "Frame 2100: This keyframe shows a worked example involving acceleration.",
+      "Frame 3100: This keyframe shows a free-body diagram with multiple forces.",
+      "Frame 4100: This keyframe shows a motion graph relating velocity and time.",
+      "Frame 5100: This keyframe explains friction on an inclined plane.",
+      "Frame 6100: This keyframe shows a momentum calculation exercise.",
+      "Frame 7100: This keyframe shows an energy conservation problem.",
+      "Frame 8100: This keyframe reviews the solution to a mechanics quiz question."
+    ]
+  },
+  {
+    "title": "Calculus: Limits and Derivatives",
+    "total_frames": 80,
+    "useful_frames": 77,
+    "theory_score": 0.69,
+    "hands_on_score": 0.26,
+    "exercise_score": 0.73,
+    "project_score": 0.04,
+    "dominant_learning_style": "theory_plus_step_by_step_exercises",
+    "frame_type_distribution": {
+      "slide": 17,
+      "code": 1,
+      "teacher_talking": 15,
+      "terminal": 0,
+      "exercise": 29,
+      "diagram": 15
+    },
+    "teaching_activity_distribution": {
+      "theory_explanation": 27,
+      "worked_example": 31,
+      "live_coding": 0,
+      "exercise_or_quiz": 16,
+      "teacher_talking": 3
+    },
+    "top_topics": [
+      {
+        "topic": "limits",
+        "count": 8
+      },
+      {
+        "topic": "math",
+        "count": 2
+      },
+      {
+        "topic": "derivatives",
+        "count": 8
+      },
+      {
+        "topic": "functions",
+        "count": 7
+      },
+      {
+        "topic": "continuity",
+        "count": 6
+      },
+      {
+        "topic": "slope of a curve",
+        "count": 5
+      },
+      {
+        "topic": "chain rule",
+        "count": 5
+      },
+      {
+        "topic": "graph analysis",
+        "count": 4
+      },
+      {
+        "topic": "step-by-step calculations",
+        "count": 4
+      },
+      {
+        "topic": "practice problems",
+        "count": 3
+      },
+      {
+        "topic": "common mistakes",
+        "count": 2
+      }
+    ],
+    "best_for_students_who_prefer": [
+      "students who prefer mathematical concepts explained through worked examples",
+      "students who want step-by-step derivative and limit exercises"
+    ],
+    "less_suitable_for": [
+      "students looking for applied calculus projects using programming"
+    ],
+    "summary": "The course appears to be theory_plus_step_by_step_exercises. Scores: theory=0.69, hands_on=0.26, exercise=0.73, project=0.04. Common visible topics include: limits, derivatives, functions, continuity, slope of a curve.",
+    "evidence": [
+      "Frame 950: This keyframe shows a graph explaining the limit of a function.",
+      "Frame 1850: This keyframe shows a step-by-step derivative calculation.",
+      "Frame 2750: This keyframe explains continuity using a piecewise function.",
+      "Frame 3650: This keyframe shows the geometric meaning of a derivative.",
+      "Frame 4550: This keyframe demonstrates the chain rule.",
+      "Frame 5450: This keyframe shows a graph analysis exercise.",
+      "Frame 6350: This keyframe corrects a common derivative mistake.",
+      "Frame 7250: This keyframe shows a practice problem involving limits."
+    ]
+  },
+  {
+    "title": "Web Security Practical Fundamentals",
+    "total_frames": 86,
+    "useful_frames": 81,
+    "theory_score": 0.46,
+    "hands_on_score": 0.79,
+    "exercise_score": 0.51,
+    "project_score": 0.44,
+    "dominant_learning_style": "hands_on_security_demonstration",
+    "frame_type_distribution": {
+      "slide": 13,
+      "code": 21,
+      "teacher_talking": 10,
+      "terminal": 25,
+      "exercise": 8,
+      "diagram": 4
+    },
+    "teaching_activity_distribution": {
+      "theory_explanation": 18,
+      "worked_example": 22,
+      "live_coding": 25,
+      "exercise_or_quiz": 11,
+      "teacher_talking": 5
+    },
+    "top_topics": [
+      {
+        "topic": "web security",
+        "count": 8
+      },
+      {
+        "topic": "SQL injection",
+        "count": 7
+      },
+      {
+        "topic": "cross-site scripting",
+        "count": 6
+      },
+      {
+        "topic": "authentication",
+        "count": 6
+      },
+      {
+        "topic": "network scanning",
+        "count": 5
+      },
+      {
+        "topic": "security testing",
+        "count": 5
+      },
+      {
+        "topic": "HTTP requests",
+        "count": 4
+      },
+      {
+        "topic": "terminal commands",
+        "count": 4
+      },
+      {
+        "topic": "input validation",
+        "count": 3
+      },
+      {
+        "topic": "vulnerability mitigation",
+        "count": 3
+      }
+    ],
+    "best_for_students_who_prefer": [
+      "students who prefer security concepts demonstrated in a practical environment",
+      "students who want hands-on examples using terminals and web applications"
+    ],
+    "less_suitable_for": [
+      "students looking for a purely theoretical cybersecurity overview"
+    ],
+    "summary": "The course appears to be hands_on_security_demonstration. Scores: theory=0.46, hands_on=0.79, exercise=0.51, project=0.44. Common visible topics include: web security, SQL injection, cross-site scripting, authentication, network scanning.",
+    "evidence": [
+      "Frame 1150: This keyframe shows a slide explaining common web vulnerabilities.",
+      "Frame 2150: This keyframe shows a SQL injection demonstration.",
+      "Frame 3150: This keyframe shows terminal commands used for network scanning.",
+      "Frame 4150: This keyframe demonstrates a cross-site scripting vulnerability.",
+      "Frame 5150: This keyframe shows an authentication flow diagram.",
+      "Frame 6150: This keyframe shows code for validating user input.",
+      "Frame 7150: This keyframe shows a security testing exercise.",
+      "Frame 8150: This keyframe demonstrates how to fix a vulnerable endpoint."
+    ]
+  },
+  {
+    "title": "Introduction to Cell Biology",
+    "total_frames": 76,
+    "useful_frames": 73,
+    "theory_score": 0.81,
+    "hands_on_score": 0.18,
+    "exercise_score": 0.27,
+    "project_score": 0.06,
+    "dominant_learning_style": "visual_theory_explanation",
+    "frame_type_distribution": {
+      "slide": 30,
+      "code": 0,
+      "teacher_talking": 19,
+      "terminal": 0,
+      "exercise": 6,
+      "diagram": 18
+    },
+    "teaching_activity_distribution": {
+      "theory_explanation": 42,
+      "worked_example": 10,
+      "live_coding": 0,
+      "exercise_or_quiz": 8,
+      "teacher_talking": 13
+    },
+    "top_topics": [
+      {
+        "topic": "cell structure",
+        "count": 9
+      },
+      {
+        "topic": "biology",
+        "count": 3
+      },
+      {
+        "topic": "cell membrane",
+        "count": 8
+      },
+      {
+        "topic": "nucleus",
+        "count": 7
+      },
+      {
+        "topic": "mitochondria",
+        "count": 6
+      },
+      {
+        "topic": "organelles",
+        "count": 6
+      },
+      {
+        "topic": "protein synthesis",
+        "count": 5
+      },
+      {
+        "topic": "cell transport",
+        "count": 4
+      },
+      {
+        "topic": "microscope images",
+        "count": 3
+      },
+      {
+        "topic": "biological diagrams",
+        "count": 3
+      },
+      {
+        "topic": "review questions",
+        "count": 2
+      }
+    ],
+    "best_for_students_who_prefer": [
+      "students who prefer biological concepts explained through diagrams",
+      "students who want a visual introduction to cell structures"
+    ],
+    "less_suitable_for": [
+      "students looking for laboratory experiments and microscope practice"
+    ],
+    "summary": "The course appears to be visual_theory_explanation. Scores: theory=0.81, hands_on=0.18, exercise=0.27, project=0.06. Common visible topics include: cell structure, cell membrane, nucleus, mitochondria, organelles.",
+    "evidence": [
+      "Frame 850: This keyframe shows a labeled diagram of an animal cell.",
+      "Frame 1700: This keyframe explains the structure of the cell membrane.",
+      "Frame 2550: This keyframe shows a diagram of the nucleus.",
+      "Frame 3400: This keyframe explains the function of mitochondria.",
+      "Frame 4250: This keyframe compares different cellular organelles.",
+      "Frame 5100: This keyframe illustrates protein synthesis.",
+      "Frame 5950: This keyframe shows a microscope image of cells.",
+      "Frame 6800: This keyframe presents a review question about cell transport."
+    ]
+  },
+  {
+    "title": "Software Engineering Project Development",
+    "total_frames": 94,
+    "useful_frames": 89,
+    "theory_score": 0.41,
+    "hands_on_score": 0.73,
+    "exercise_score": 0.38,
+    "project_score": 0.82,
+    "dominant_learning_style": "project_based_development",
+    "frame_type_distribution": {
+      "slide": 13,
+      "code": 28,
+      "teacher_talking": 9,
+      "terminal": 17,
+      "exercise": 5,
+      "diagram": 17
+    },
+    "teaching_activity_distribution": {
+      "theory_explanation": 17,
+      "worked_example": 20,
+      "live_coding": 25,
+      "exercise_or_quiz": 6,
+      "teacher_talking": 4
+    },
+    "top_topics": [
+      {
+        "topic": "software architecture",
+        "count": 8
+      },
+      {
+        "topic": "software engineering",
+        "count": 6
+      },
+      {
+        "topic": "REST API",
+        "count": 7
+      },
+      {
+        "topic": "database design",
+        "count": 7
+      },
+      {
+        "topic": "authentication",
+        "count": 6
+      },
+      {
+        "topic": "frontend integration",
+        "count": 5
+      },
+      {
+        "topic": "Git workflow",
+        "count": 5
+      },
+      {
+        "topic": "testing",
+        "count": 4
+      },
+      {
+        "topic": "deployment",
+        "count": 4
+      },
+      {
+        "topic": "debugging",
+        "count": 3
+      },
+      {
+        "topic": "project structure",
+        "count": 3
+      }
+    ],
+    "best_for_students_who_prefer": [
+      "students who prefer learning by building a complete software application",
+      "students who want practical experience connecting multiple system components"
+    ],
+    "less_suitable_for": [
+      "students looking for a short introduction to basic programming syntax"
+    ],
+    "summary": "The course appears to be project_based_development. Scores: theory=0.41, hands_on=0.73, exercise=0.38, project=0.82. Common visible topics include: software architecture, REST API, database design, authentication, frontend integration.",
+    "evidence": [
+      "Frame 1250: This keyframe shows the architecture diagram of a web application.",
+      "Frame 2350: This keyframe shows code for a REST API endpoint.",
+      "Frame 3450: This keyframe shows a database schema design.",
+      "Frame 4550: This keyframe demonstrates user authentication.",
+      "Frame 5650: This keyframe shows frontend and backend integration.",
+      "Frame 6750: This keyframe demonstrates a Git branching workflow.",
+      "Frame 7850: This keyframe shows automated test execution.",
+      "Frame 8950: This keyframe shows deployment logs from the completed project."
+    ]
+  }
+]

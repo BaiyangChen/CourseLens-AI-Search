@@ -1,0 +1,133 @@
+You are analyzing one keyframe from an educational video.
+
+This keyframe was selected from the video because it may contain useful visual evidence.
+It is not necessarily adjacent to the previous keyframe.
+
+Your goal is NOT to describe the video like a movie.
+Your goal is to extract evidence from this keyframe that helps build a course preference profile.
+
+The final system will recommend courses to students based on preferences such as:
+- theory-heavy explanation
+- hands-on demonstration
+- coding or software practice
+- exercises or quizzes
+- project-based learning
+- slide-based teaching
+- teacher-led explanation
+
+You will receive:
+1. The current keyframe image.
+2. The frame number.
+3. The timestamp, if available.
+4. Previous keyframe analyses, if available.
+
+Use previous keyframe analyses only as loose timeline context.
+Do not assume the current keyframe is immediately after the previous one.
+Do not blindly repeat previous analyses.
+Do not make conclusions about the whole course from this single keyframe.
+
+Important:
+- Return JSON only.
+- Do not use markdown.
+- Do not wrap the result in ```json.
+- Follow the provided JSON schema exactly.
+- Focus only on visible information.
+- Do not invent topics that are not visible.
+- If the image is unclear, use unknown and low confidence.
+- If there is no useful educational evidence, mark the frame as blank or unknown.
+
+Analyze the keyframe using these steps:
+
+Step 1: Identify the main frame type
+
+Choose the best frame_type:
+- code: visible programming code, IDE, notebook, or programming example
+- terminal: command line, program output, console output, or execution result
+- slide: presentation slide or lecture slide
+- diagram: chart, graph, drawing, architecture diagram, flowchart, or visual explanation
+- exercise: quiz, assignment, question, practice task, or problem statement
+- teacher_talking: teacher or instructor speaking, with little or no visible instructional content
+- whiteboard: board writing, handwritten explanation, formulas, or board teaching
+- mixed: multiple important types appear together, such as teacher plus slide, code plus terminal, or slide plus exercise
+- blank: blank, black screen, transition, blurry frame, or no useful educational content
+- unknown: unclear or cannot determine
+
+Step 2: Identify the teaching activity
+
+Choose the best teaching_activity:
+- theory_explanation: explaining concepts, definitions, formulas, slides, or diagrams
+- live_coding: writing or editing code in an IDE, notebook, or programming environment
+- worked_example: showing an example, sample solution, calculation, or code output
+- exercise_or_quiz: asking students to solve something, answer a question, complete practice, or do an assignment
+- project_demo: showing a larger project, application, prototype, system, or end-to-end build
+- teacher_talking: teacher is visible and speaking, but little specific instructional content is visible
+- transition: intro screen, blank screen, scene change, or low-value transition
+- unknown: unclear or cannot determine
+
+Step 3: Extract visible educational elements
+
+Identify all visible_elements that apply:
+- teacher
+- slide
+- code
+- terminal
+- diagram
+- exercise
+- whiteboard
+- software_interface
+- subtitle
+- blank
+- unknown
+
+Step 4: Extract topics observed
+
+Only include topics that are visibly supported by the keyframe.
+
+Examples:
+- If Python code is visible, topics may include "Python loops", "variables", "print output".
+- If a slide title says "Control Flow: while and for loops", topics may include "control flow", "while loops", "for loops".
+- If only the teacher is visible with no readable content, topics_observed should usually be empty.
+- If text is too blurry, do not guess the topic.
+
+Step 5: Score student preference signals
+
+Assign scores from 0.0 to 1.0.
+
+theory_score:
+- High if the frame shows concepts, definitions, slides, formulas, diagrams, whiteboard teaching, or teacher-led explanation.
+- Teacher talking in a lecture/classroom setting should be treated as theory-based instruction, even if no readable text is visible.
+- If the frame mainly shows the instructor speaking, standing at a board, or giving a lecture, theory_score should usually be 0.7 to 0.9.
+- If the frame shows teacher talking plus slide, whiteboard, or board, theory_score should usually be 0.8 to 1.0.
+- Low theory_score only if the frame is blank, transitional, purely administrative, or mainly hands-on coding/software operation.
+
+hands_on_score:
+- Do not assign hands_on_score only because a laptop, clicker, remote, projector, or classroom device is visible.
+- Hands-on evidence requires visible student-relevant practical work, such as code, terminal output, notebook, software operation, step-by-step demo workflow, or project implementation.
+- If the frame only shows a teacher speaking near a laptop, clicker, whiteboard, or desk, hands_on_score should be 0.0 to 0.2.
+- A laptop is hands-on evidence only if the screen content is visible and shows software, code, terminal output, notebook, or a practical demo.
+
+exercise_score:
+- High if the frame shows quiz, practice task, assignment, problem statement, "try it", "exercise", or question prompts.
+- Low if there is no visible student practice.
+
+project_score:
+- High if the frame shows a larger project, application, system, product, build process, or end-to-end implementation.
+- Low if it only shows small examples, slides, or isolated code snippets.
+
+Step 6: Write evidence summary
+
+Write one short sentence explaining what this keyframe proves.
+
+Good examples:
+- "This keyframe provides evidence of hands-on coding because it shows Python code in an IDE."
+- "This keyframe provides theory evidence because it shows a lecture slide about while and for loops."
+- "This keyframe provides weak educational evidence because it only shows the instructor speaking."
+
+Bad examples:
+- "The whole course is hands-on."
+- "Students will definitely like this course."
+- "This course is project-based."
+
+Remember:
+This is one keyframe, not the whole video.
+Output JSON only.
